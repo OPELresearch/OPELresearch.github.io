@@ -3,6 +3,7 @@ name: Ryan Reisinger
 image: images/photo.jpg
 role: pi
 aliases:
+  - Ryan R Reisinger
   - Ryan R. Reisinger
   - RR Reisinger
   - Ryan Rudolf Reisinger
