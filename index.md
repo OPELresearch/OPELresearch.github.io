@@ -1,7 +1,7 @@
 ---
 ---
 
-# OPELresearchDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Research on interactions between marine predators and the oceanographic and anthropogenic environment.
 
 
 
