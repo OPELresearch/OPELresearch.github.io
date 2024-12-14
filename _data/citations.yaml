@@ -1,174 +1,1365 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.tree.2024.09.009
+  title: Maximizing biological insights from instruments attached to animals
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Roxanne S. Beltran
+  - A. Marm Kilpatrick
+  - Simona Picardi
+  - Briana Abrahms
+  - Gabriel M. Barrile
+  - William K. Oestreich
+  - Justine A. Smith
+  - Max F. Czapanskiy
+  - Arina B. Favilla
+  - Ryan R. Reisinger
+  - Jessica M. Kendall-Bar
+  - Allison R. Payne
+  - Matthew S. Savoca
+  - Danial G. Palance
+  - Samantha Andrzejaczek
+  - Daphne M. Shen
+  - Taiki Adachi
+  - Daniel P. Costa
+  - Natalie A. Storm
+  - Conner M. Hale
+  - Patrick W. Robinson
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2024-10-01'
+  link: https://doi.org/g8vk29
+  orcid: 0000-0002-8933-6875
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1111/cobi.14345
+  title: Scaling up ocean conservation through recognition of key biodiversity areas
+    in the Southern Ocean from multispecies tracking data
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Sarah L. Becker
+  - Charlotte Boyd
+  - Jonathan M. Handley
+  - Ben Raymond
+  - Ryan Reisinger
+  - "Yan Ropert\u2010Coudert"
+  - Nora Apelgren
+  - Tammy E. Davies
+  - "Mary\u2010Anne Lea"
+  - Mercedes Santos
+  - Philip N. Trathan
+  - Anton P. Van de Putte
+  - Luis A. Huckstadt
+  - "Jean\u2010Benoit Charrassin"
+  - Cassandra M. Brooks
+  publisher: Conservation Biology
+  date: '2024-08-15'
+  link: https://doi.org/g8vk3b
+  orcid: 0000-0002-8933-6875
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1111/brv.13066
+  title: 'Animal migration in the Anthropocene: threats and mitigation options'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Steven J. Cooke
+  - Morgan L. Piczak
+  - Navinder J. Singh
+  - "Susanne \xC5kesson"
+  - Adam T. Ford
+  - Shawan Chowdhury
+  - Greg W. Mitchell
+  - D. Ryan Norris
+  - "Molly Hardesty\u2010Moore"
+  - Douglas McCauley
+  - Neil Hammerschlag
+  - Marlee A. Tucker
+  - Joshua J. Horns
+  - Ryan R. Reisinger
+  - "Vojt\u011Bch Kubelka"
+  - Robert J. Lennox
+  publisher: Biological Reviews
+  date: '2024-03-04'
+  link: https://doi.org/gtphzw
+  orcid: 0000-0002-8933-6875
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/mms.13078
+  title: Tracking the foraging migrations of Marion Island southern elephant seals
+    (<i>Mirounga leonina</i>) during their first year of life
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Trevor McIntyre
+  - W. Chris Oosthuizen
+  - "Marth\xE1n N. Bester"
+  - Mark A. Hindell
+  - Ryan R. Reisinger
+  - Cheryl A. Tosh
+  - John van den Hoff
+  - P.J. Nico de Bruyn
+  publisher: Marine Mammal Science
+  date: '2023-10-09'
+  link: https://doi.org/gsvn2s
+  orcid: 0000-0002-8933-6875
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1111/gcb.17143
+  title: 'Climate and human stressors on global penguin hotspots: Current assessments
+    for future conservation'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "M\xEDriam Gimeno"
+  - "Joan Gim\xE9nez"
+  - Andre Chiaradia
+  - Lloyd S. Davis
+  - Philip J. Seddon
+  - "Yan Ropert\u2010Coudert"
+  - Ryan R. Reisinger
+  - Marta Coll
+  - "Francisco Ram\xEDrez"
+  publisher: Global Change Biology
+  date: '2024-01-01'
+  link: https://doi.org/gt2hgr
+  orcid: 0000-0002-8933-6875
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1002/ece3.10144
+  title: The effect of prey abundance and fisheries on the survival, reproduction,
+    and social structure of killer whales (<i>Orcinus orca</i>) at subantarctic Marion
+    Island
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Rowan K. Jordaan
+  - W. Chris Oosthuizen
+  - Ryan R. Reisinger
+  - P. J. Nico de Bruyn
+  publisher: Ecology and Evolution
+  date: '2023-06-01'
+  link: https://doi.org/g8vk3c
+  orcid: 0000-0002-8933-6875
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.3389/fmars.2022.1119428
+  title: 'Editorial: Tracking marine megafauna for conservation and marine spatial
+    planning'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Jorge M. Pereira
+  - Thomas A. Clay
+  - Ryan R. Reisinger
+  - Yan Ropert-Coudert
+  - Ana M. M. Sequeira
+  publisher: Frontiers in Marine Science
+  date: '2023-01-04'
+  link: https://doi.org/g8vk3d
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biocon.2022.109630
+  title: 'Predator-derived bioregions in the Southern Ocean: Characteristics, drivers
+    and representation in marine protected areas'
+  authors:
+  - Ryan R. Reisinger
+  - Cassandra M. Brooks
+  - Ben Raymond
+  - Jennifer J. Freer
+  - "C\xE9dric Cott\xE9"
+  - "Jos\xE9 C. Xavier"
+  - Philip N. Trathan
+  - Horst Bornemann
+  - Jean-Benoit Charrassin
+  - Daniel P. Costa
+  - Bruno Danis
+  - "Luis H\xFCckst\xE4dt"
+  - Ian D. Jonsen
+  - Mary-Anne Lea
+  - Leigh Torres
+  - Anton Van de Putte
+  - Simon Wotherspoon
+  - Ari S. Friedlaender
+  - Yan Ropert-Coudert
+  - Mark Hindell
+  publisher: Biological Conservation
+  date: '2022-08-01'
+  link: https://doi.org/gzvwrd
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fmars.2022.914726
+  title: Spatiotemporal Overlap of Baleen Whales and Krill Fisheries in the Western
+    Antarctic Peninsula Region
+  authors:
+  - Ryan R. Reisinger
+  - Philip N. Trathan
+  - Christopher M. Johnson
+  - Trevor W. Joyce
+  - John W. Durban
+  - Robert L. Pitman
+  - Ari S. Friedlaender
+  publisher: Frontiers in Marine Science
+  date: '2022-07-21'
+  link: https://doi.org/g8vk3f
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-022-03026-3
+  title: 'Understanding the biology of polar regions is more important than ever:
+    Introducing associate editors to strengthen polar biology'
+  authors:
+  - Dieter Piepenburg
+  - Angelina Lo Giudice
+  - Gabriela Mataloni
+  - Barbara Wienecke
+  - "Toke Thomas H\xF8ye"
+  - Mario La Mesa
+  - Ryan Reisinger
+  - Alexey Sukhotin
+  - "Henrike M\xFCtze"
+  publisher: Polar Biology
+  date: '2022-02-24'
+  link: https://doi.org/g8vk3g
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ddi.13347
+  title: Front Cover
+  authors:
+  - Ryan R. Reisinger
+  - Stuart Corney
+  - Ben Raymond
+  - Amanda T. Lombard
+  - "Marth\xE1n N. Bester"
+  - Robert J. M. Crawford
+  - Delia Davies
+  - P. J. Nico de Bruyn
+  - Ben J. Dilley
+  - Stephen P. Kirkman
+  - Azwianewi B. Makhado
+  - Peter G. Ryan
+  - Stefan Schoombie
+  - Kim L. Stevens
+  - Cheryl A. Tosh
+  - Mia Wege
+  - T. Otto Whitehead
+  - Michael D. Sumner
+  - Simon Wotherspoon
+  - Ari S. Friedlaender
+  - "Cedric Cott\xE9"
+  - Mark A. Hindell
+  - "Yan Ropert\u2010Coudert"
+  - Pierre A. Pistorius
+  publisher: Diversity and Distributions
+  date: '2021-12-28'
+  link: https://doi.org/gzhb23
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ddi.13447
+  title: Habitat model forecasts suggest potential redistribution of marine predators
+    in the southern Indian Ocean
+  authors:
+  - Ryan R. Reisinger
+  - Stuart Corney
+  - Ben Raymond
+  - Amanda T. Lombard
+  - "Marth\xE1n N. Bester"
+  - Robert J. M. Crawford
+  - Delia Davies
+  - P. J. Nico de Bruyn
+  - Ben J. Dilley
+  - Stephen P. Kirkman
+  - Azwianewi B. Makhado
+  - Peter G. Ryan
+  - Stefan Schoombie
+  - Kim L. Stevens
+  - Cheryl A. Tosh
+  - Mia Wege
+  - T. Otto Whitehead
+  - Michael D. Sumner
+  - Simon Wotherspoon
+  - Ari S. Friedlaender
+  - "Cedric Cott\xE9"
+  - Mark A. Hindell
+  - "Yan Ropert\u2010Coudert"
+  - Pierre A. Pistorius
+  publisher: Diversity and Distributions
+  date: '2021-11-29'
+  link: https://doi.org/gn5bzc
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2656.13552
+  title: 'Spatial segregation in a sexually dimorphic central place forager: Competitive
+    exclusion or niche divergence?'
+  authors:
+  - Florian Orgeret
+  - Ryan R. Reisinger
+  - "Tegan Carpenter\u2010Kling"
+  - Danielle Z. Keys
+  - Alexandre Corbeau
+  - "Charles\u2010Andr\xE9 Bost"
+  - Henri Weimerskirch
+  - Pierre A. Pistorius
+  publisher: Journal of Animal Ecology
+  date: '2021-06-29'
+  link: https://doi.org/gkfdcp
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3354/MEPS13787
+  title: Habitat-based density models of pack-ice seal distribution in the southern
+    Weddell Sea, Antarctica
+  authors:
+  - WC Oosthuizen
+  - RR Reisinger
+  - MN Bester
+  - D Steinhage
+  - H Auel
+  - H Flores
+  - R Knust
+  - S Ryan
+  - H Bornemann
+  publisher: Marine Ecology Progress Series
+  date: '2021-09-02'
+  link: https://doi.org/gztwxq
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2021.05.007
+  title: Seasonal fission and fusion of killer whale, Orcinus orca, social structure
+    at sub-Antarctic Marion Island
+  authors:
+  - Rowan K. Jordaan
+  - Ryan R. Reisinger
+  - W. Chris Oosthuizen
+  - P.J. Nico de Bruyn
+  publisher: Animal Behaviour
+  date: '2021-07-01'
+  link: https://doi.org/gkhdn8
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/rs13112074
+  title: 'Combining Regional Habitat Selection Models for Large-Scale Prediction:
+    Circumpolar Habitat Selection of Southern Ocean Humpback Whales'
+  authors:
+  - Ryan R. Reisinger
+  - Ari S. Friedlaender
+  - Alexandre N. Zerbini
+  - Daniel M. Palacios
+  - Virginia Andrews-Goff
+  - Luciano Dalla Rosa
+  - Mike Double
+  - Ken Findlay
+  - Claire Garrigue
+  - Jason How
+  - Curt Jenner
+  - Micheline-Nicole Jenner
+  - Bruce Mate
+  - Howard C. Rosenbaum
+  - S. Mduduzi Seakamela
+  - Rochelle Constantine
+  publisher: Remote Sensing
+  date: '2021-05-25'
+  link: https://doi.org/g8vk3h
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/brv.12679
+  title: "Antarctic ecosystems in transition \u2013 life between stresses and opportunities"
+  authors:
+  - Julian Gutt
+  - Enrique Isla
+  - "Jos\xE9 C. Xavier"
+  - Byron J. Adams
+  - "In\u2010Young Ahn"
+  - "C.\u2010H. Christina Cheng"
+  - Claudia Colesie
+  - Vonda J. Cummings
+  - Guido di Prisco
+  - Huw Griffiths
+  - Ian Hawes
+  - Ian Hogg
+  - Trevor McIntyre
+  - Klaus M. Meiners
+  - David A. Pearce
+  - Lloyd Peck
+  - Dieter Piepenburg
+  - Ryan R. Reisinger
+  - Grace K. Saba
+  - Irene R. Schloss
+  - Camila N. Signori
+  - Craig R. Smith
+  - Marino Vacchi
+  - Cinzia Verde
+  - Diana H. Wall
+  publisher: Biological Reviews
+  date: '2020-12-22'
+  link: https://doi.org/gkzj84
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fevo.2020.566936
+  title: 'Marine Ecosystem Assessment for the Southern Ocean: Birds and Marine Mammals
+    in a Changing Climate'
+  authors:
+  - Sophie Bestley
+  - Yan Ropert-Coudert
+  - Susan Bengtson Nash
+  - Cassandra M. Brooks
+  - "C\xE9dric Cott\xE9"
+  - Meagan Dewar
+  - Ari S. Friedlaender
+  - Jennifer A. Jackson
+  - Sara Labrousse
+  - Andrew D. Lowther
+  - Clive R. McMahon
+  - Richard A. Phillips
+  - Pierre Pistorius
+  - Peter S. Puskic
+  - Ana Olivia de A. Reis
+  - Ryan R. Reisinger
+  - Mercedes Santos
+  - Esther Tarszisz
+  - Paul Tixier
+  - Philip N. Trathan
+  - Mia Wege
+  - Barbara Wienecke
+  publisher: Frontiers in Ecology and Evolution
+  date: '2020-11-04'
+  link: https://doi.org/gmv5m7
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.6766
+  title: "Foraging in a dynamic environment: Response of four sympatric sub\u2010\
+    Antarctic albatross species to interannual environmental variability"
+  authors:
+  - "Tegan Carpenter\u2010Kling"
+  - Ryan R. Reisinger
+  - Florian Orgeret
+  - "Ma\xEBlle Connan"
+  - Kim L. Stevens
+  - Peter G. Ryan
+  - Azwianewi Makhado
+  - Pierre A. Pistorius
+  publisher: Ecology and Evolution
+  date: '2020-09-21'
+  link: https://doi.org/gn5v8m
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsos.200649
+  title: Foraging behaviour and habitat-use drives niche segregation in sibling seabird
+    species
+  authors:
+  - Ryan R. Reisinger
+  - Tegan Carpenter-Kling
+  - "Ma\xEBlle Connan"
+  - Yves Cherel
+  - Pierre A. Pistorius
+  publisher: Royal Society Open Science
+  date: '2020-09-01'
+  link: https://doi.org/g8vk3j
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40462-020-00208-8
+  title: A critical assessment of marine predator isoscapes within the southern Indian
+    Ocean
+  authors:
+  - Tegan Carpenter-Kling
+  - Pierre Pistorius
+  - Ryan Reisinger
+  - Yves Cherel
+  - "Ma\xEBlle Connan"
+  publisher: Movement Ecology
+  date: '2020-06-29'
+  link: https://doi.org/g8vk3k
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-020-2126-y
+  title: Tracking of marine predators to protect Southern Ocean ecosystems
+  authors:
+  - Mark A. Hindell
+  - Ryan R. Reisinger
+  - Yan Ropert-Coudert
+  - "Luis A. H\xFCckst\xE4dt"
+  - Philip N. Trathan
+  - Horst Bornemann
+  - "Jean-Beno\xEEt Charrassin"
+  - Steven L. Chown
+  - Daniel P. Costa
+  - Bruno Danis
+  - Mary-Anne Lea
+  - David Thompson
+  - Leigh G. Torres
+  - Anton P. Van de Putte
+  - Rachael Alderman
+  - Virginia Andrews-Goff
+  - Ben Arthur
+  - Grant Ballard
+  - John Bengtson
+  - "Marth\xE1n N. Bester"
+  - Arnoldus Schytte Blix
+  - Lars Boehme
+  - "Charles-Andr\xE9 Bost"
+  - Peter Boveng
+  - Jaimie Cleeland
+  - Rochelle Constantine
+  - Stuart Corney
+  - Robert J. M. Crawford
+  - Luciano Dalla Rosa
+  - P. J. Nico de Bruyn
+  - Karine Delord
+  - "S\xE9bastien Descamps"
+  - Mike Double
+  - Louise Emmerson
+  - Mike Fedak
+  - Ari Friedlaender
+  - Nick Gales
+  - Michael E. Goebel
+  - Kimberly T. Goetz
+  - Christophe Guinet
+  - Simon D. Goldsworthy
+  - Rob Harcourt
+  - Jefferson T. Hinke
+  - Kerstin Jerosch
+  - Akiko Kato
+  - Knowles R. Kerry
+  - Roger Kirkwood
+  - Gerald L. Kooyman
+  - Kit M. Kovacs
+  - Kieran Lawton
+  - Andrew D. Lowther
+  - Christian Lydersen
+  - "Phil O\u2019B. Lyver"
+  - Azwianewi B. Makhado
+  - "Maria E. I. M\xE1rquez"
+  - Birgitte I. McDonald
+  - Clive R. McMahon
+  - Monica Muelbert
+  - Dominik Nachtsheim
+  - Keith W. Nicholls
+  - "Erling S. Nord\xF8y"
+  - Silvia Olmastroni
+  - Richard A. Phillips
+  - Pierre Pistorius
+  - "Joachim Pl\xF6tz"
+  - "Klemens P\xFCtz"
+  - Norman Ratcliffe
+  - Peter G. Ryan
+  - Mercedes Santos
+  - Colin Southwell
+  - Iain Staniland
+  - Akinori Takahashi
+  - Arnaud Tarroux
+  - Wayne Trivelpiece
+  - Ewan Wakefield
+  - Henri Weimerskirch
+  - Barbara Wienecke
+  - "Jos\xE9 C. Xavier"
+  - Simon Wotherspoon
+  - Ian D. Jonsen
+  - Ben Raymond
+  publisher: Nature
+  date: '2020-03-18'
+  link: https://doi.org/gjt43k
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41597-020-0406-x
+  title: The retrospective analysis of Antarctic tracking data project
+  authors:
+  - Yan Ropert-Coudert
+  - Anton P. Van de Putte
+  - Ryan R. Reisinger
+  - Horst Bornemann
+  - "Jean-Beno\xEEt Charrassin"
+  - Daniel P. Costa
+  - Bruno Danis
+  - "Luis A. H\xFCckst\xE4dt"
+  - Ian D. Jonsen
+  - Mary-Anne Lea
+  - David Thompson
+  - Leigh G. Torres
+  - Philip N. Trathan
+  - Simon Wotherspoon
+  - David G. Ainley
+  - Rachael Alderman
+  - Virginia Andrews-Goff
+  - Ben Arthur
+  - Grant Ballard
+  - John Bengtson
+  - "Marth\xE1n N. Bester"
+  - Arnoldus Schytte Blix
+  - Lars Boehme
+  - "Charles-Andr\xE9 Bost"
+  - Peter Boveng
+  - Jaimie Cleeland
+  - Rochelle Constantine
+  - Robert J. M. Crawford
+  - Luciano Dalla Rosa
+  - P. J. Nico de Bruyn
+  - Karine Delord
+  - "S\xE9bastien Descamps"
+  - Mike Double
+  - Louise Emmerson
+  - Mike Fedak
+  - Ari Friedlaender
+  - Nick Gales
+  - Mike Goebel
+  - Kimberly T. Goetz
+  - Christophe Guinet
+  - Simon D. Goldsworthy
+  - Rob Harcourt
+  - Jefferson T. Hinke
+  - Kerstin Jerosch
+  - Akiko Kato
+  - Knowles R. Kerry
+  - Roger Kirkwood
+  - Gerald L. Kooyman
+  - Kit M. Kovacs
+  - Kieran Lawton
+  - Andrew D. Lowther
+  - Christian Lydersen
+  - "Phil O\u2019B. Lyver"
+  - Azwianewi B. Makhado
+  - "Maria E. I. M\xE1rquez"
+  - Birgitte I. McDonald
+  - Clive R. McMahon
+  - Monica Muelbert
+  - Dominik Nachtsheim
+  - Keith W. Nicholls
+  - "Erling S. Nord\xF8y"
+  - Silvia Olmastroni
+  - Richard A. Phillips
+  - Pierre Pistorius
+  - "Joachim Pl\xF6tz"
+  - "Klemens P\xFCtz"
+  - Norman Ratcliffe
+  - Peter G. Ryan
+  - Mercedes Santos
+  - Colin Southwell
+  - Iain Staniland
+  - Akinori Takahashi
+  - Arnaud Tarroux
+  - Wayne Trivelpiece
+  - Ewan Wakefield
+  - Henri Weimerskirch
+  - Barbara Wienecke
+  - "Jos\xE9 C. Xavier"
+  - Ben Raymond
+  - Mark A. Hindell
+  publisher: Scientific Data
+  date: '2020-03-18'
+  link: https://doi.org/gkzj4d
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4102/jsava.v91i0.1720
+  title: 'Seal bites at sub-Antarctic Marion Island : incidence, outcomes and treatment
+    recommendations'
+  authors:
+  - Ryan R. Reisinger
+  - Miles Penfold
+  - Gerhard Steenkamp
+  - "Marth\xE1n N. Bester"
+  publisher: Journal of the South African Veterinary Association
+  date: '2020-01-01'
+  link: https://doi.org/g8vk3m
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2981/wlb.00732
+  title: Abundance, survival and population growth of killer whales <i>Orcinus orca</i>
+    at subantarctic Marion Island
+  authors:
+  - Rowan K. Jordaan
+  - W. Chris Oosthuizen
+  - Ryan R. Reisinger
+  - P. J. Nico De Bruyn
+  publisher: Wildlife Biology
+  date: '2020-10-08'
+  link: https://doi.org/g8vk3n
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-53860-5
+  title: 'Author Correction: Important At-Sea Areas of Colonial Breeding Marine Predators
+    on the Southern Patagonian Shelf'
+  authors:
+  - Alastair M. M. Baylis
+  - Megan Tierney
+  - Rachael A. Orben
+  - Victoria Warwick-Evans
+  - Ewan Wakefield
+  - W. James Grecian
+  - Phil Trathan
+  - Ryan Reisinger
+  - Norman Ratcliffe
+  - John Croxall
+  - Letizia Campioni
+  - Paulo Catry
+  - Sarah Crofts
+  - P. Dee Boersma
+  - Filippo Galimberti
+  - "Jos\xE9 P. Granadeiro"
+  - Jonathan Handley
+  - Sean Hayes
+  - April Hedd
+  - Juan F. Masello
+  - William A. Montevecchi
+  - "Klemens P\xFCtz"
+  - Petra Quillfeldt
+  - Ginger A. Rebstock
+  - Simona Sanvito
+  - Iain J. Staniland
+  - Paul Brickle
+  publisher: Scientific Reports
+  date: '2019-11-20'
+  link: https://doi.org/g8vk3p
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2019GL084347
+  title: "Dynamic Fine\u2010Scale Sea Icescape Shapes Adult Emperor Penguin Foraging\
+    \ Habitat in East Antarctica"
+  authors:
+  - Sara Labrousse
+  - Alexander D. Fraser
+  - Michael Sumner
+  - Takeshi Tamura
+  - David Pinaud
+  - Barbara Wienecke
+  - Roger Kirkwood
+  - "Yan Ropert\u2010Coudert"
+  - Ryan Reisinger
+  - Ian Jonsen
+  - "Rick Porter\u2010Smith"
+  - Christophe Barbraud
+  - "Charles\u2010Andr\xE9 Bost"
+  - Rubao Ji
+  - "St\xE9phanie Jenouvrier"
+  publisher: Geophysical Research Letters
+  date: '2019-10-21'
+  link: https://doi.org/g8vk3q
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-44695-1
+  title: Important At-Sea Areas of Colonial Breeding Marine Predators on the Southern
+    Patagonian Shelf
+  authors:
+  - Alastair M. M. Baylis
+  - Megan Tierney
+  - Rachael A. Orben
+  - Victoria Warwick-Evans
+  - Ewan Wakefield
+  - W. James Grecian
+  - Phil Trathan
+  - Ryan Reisinger
+  - Norman Ratcliffe
+  - John Croxall
+  - Letizia Campioni
+  - Paulo Catry
+  - Sarah Crofts
+  - P. Dee Boersma
+  - Filippo Galimberti
+  - "Jos\xE9 P. Granadeiro"
+  - Jonathan Handley
+  - Sean Hayes
+  - April Hedd
+  - Juan F. Masello
+  - William A. Montevecchi
+  - "Klemens P\xFCtz"
+  - Petra Quillfeldt
+  - Ginger A. Rebstock
+  - Simona Sanvito
+  - Iain J. Staniland
+  - Paul Brickle
+  publisher: Scientific Reports
+  date: '2019-06-11'
+  link: https://doi.org/g8vk3r
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1817174116
+  title: Role of sociality in the response of killer whales to an additive mortality
+    event
+  authors:
+  - Marine Busson
+  - Matthieu Authier
+  - Christophe Barbraud
+  - Paul Tixier
+  - Ryan R. Reisinger
+  - "Ana\xEFs Janc"
+  - Christophe Guinet
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-05-20'
+  link: https://doi.org/gtf8ph
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-019-02487-3
+  title: Anomalous lanugo coat colourations in sub-Antarctic fur seal (Arctocephalus
+    tropicalis) pups born on Marion Island
+  authors:
+  - Kate H. du Toit
+  - Michael A. Mole
+  - Mia Wege
+  - Ryan R. Reisinger
+  - Chris W. Oosthuizen
+  - Yinhla D. Shihlomule
+  - Rowan K. Jordaan
+  - "Andr\xE9 van Tonder"
+  - P. J. Nico de Bruyn
+  publisher: Polar Biology
+  date: '2019-03-21'
+  link: https://doi.org/gz4xrz
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jembe.2018.12.007
+  title: "Sensitivity of \u03B413C values of seabird tissues to combined spatial,\
+    \ temporal and ecological drivers: A simulation approach"
+  authors:
+  - Tegan Carpenter-Kling
+  - Pierre Pistorius
+  - "Ma\xEBlle Connan"
+  - Ryan Reisinger
+  - Sarah Magozzi
+  - Clive Trueman
+  publisher: Journal of Experimental Marine Biology and Ecology
+  date: '2019-03-01'
+  link: https://doi.org/g8vk3s
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-018-2361-y
+  title: Aspects of the ecology of killer whale (Orcinus orca Linn.) groups in the
+    near-shore waters of Sub-Antarctic Macquarie Island
+  authors:
+  - Toby Travers
+  - John van den Hoff
+  - Mary-Anne Lea
+  - Kris Carlyon
+  - Ryan Reisinger
+  - P. J. Nico de Bruyn
+  - Margie Morrice
+  publisher: Polar Biology
+  date: '2018-06-26'
+  link: https://doi.org/gfd4g5
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/01584197.2018.1469959
+  title: Foraging behaviour and habitat use by Indian Yellow-nosed Albatrosses (<i>Thalassarche
+    carteri</i>) breeding at Prince Edward Island
+  authors:
+  - A. B. Makhado
+  - R. J. M. Crawford
+  - M. P. Dias
+  - B. M. Dyer
+  - T. Lamont
+  - P. Pistorius
+  - P. G. Ryan
+  - L. Upfold
+  - H. Weimerskirch
+  - R. R. Reisinger
+  publisher: Emu - Austral Ornithology
+  date: '2018-06-21'
+  link: https://doi.org/g8vk3t
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ddi.12702
+  title: Habitat modelling of tracking data from multiple marine predators identifies
+    important areas in the Southern Indian Ocean
+  authors:
+  - Ryan R. Reisinger
+  - Ben Raymond
+  - Mark A. Hindell
+  - "Marth\xE1n N. Bester"
+  - Robert J. M. Crawford
+  - Delia Davies
+  - P. J. Nico de Bruyn
+  - Ben J. Dilley
+  - Stephen P. Kirkman
+  - Azwianewi B. Makhado
+  - Peter G. Ryan
+  - Stefan Schoombie
+  - Kim Stevens
+  - Michael D. Sumner
+  - Cheryl A. Tosh
+  - Mia Wege
+  - Thomas Otto Whitehead
+  - Simon Wotherspoon
+  - Pierre A. Pistorius
+  publisher: Diversity and Distributions
+  date: '2018-01-08'
+  link: https://doi.org/gc8pfd
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/17518369.2018.1451142
+  title: Overlap and temporal variation in the diets of sympatric Antarctic and Subantarctic
+    fur seals (<i>Arctocephalus</i> spp.) at Marion Island, Prince Edward Islands
+  authors:
+  - Ryan R. Reisinger
+  - Marietjie Landman
+  - Nonkoliso Mgibantaka
+  - Malcolm J. Smale
+  - "Marth\xE1n N. Bester"
+  - P.J. Nico De Bruyn
+  - Pierre A. Pistorius
+  publisher: Polar Research
+  date: '2018-01-01'
+  link: https://doi.org/g8vk3v
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3354/meps12240
+  title: 'Low trophic level diet of juvenile southern elephant seals Mirounga leonina
+    from Marion Island: a stable isotope investigation using vibrissal regrowths'
+  authors:
+  - "N L\xFCbcker"
+  - RR Reisinger
+  - WC Oosthuizen
+  - PJN de Bruyn
+  - A van Tonder
+  - PA Pistorius
+  - MN Bester
+  publisher: Marine Ecology Progress Series
+  date: '2017-08-18'
+  link: https://doi.org/gb2cxm
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.2833
+  title: "At\u2010sea distribution and habitat use in king penguins at sub\u2010Antarctic\
+    \ Marion Island"
+  authors:
+  - Pierre Pistorius
+  - Mark Hindell
+  - Robert Crawford
+  - Azwianewi Makhado
+  - Bruce Dyer
+  - Ryan Reisinger
+  publisher: Ecology and Evolution
+  date: '2017-04-22'
+  link: https://doi.org/gbjshg
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/beheco/arx034
+  title: Kinship and association in a highly social apex predator population, killer
+    whales at Marion Island
+  authors:
+  - Ryan R. Reisinger
+  - "Charlene Beukes (n\xE9e Janse van Rensburg)"
+  - A. Rus Hoelzel
+  - P.J. Nico de Bruyn
+  publisher: Behavioral Ecology
+  date: '2017-03-22'
+  link: https://doi.org/gbg5r8
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00227-016-3066-9
+  title: A novel foraging strategy in gentoo penguins breeding at sub-Antarctic Marion
+    Island
+  authors:
+  - Tegan Carpenter-Kling
+  - Jonathan M. Handley
+  - David B. Green
+  - Ryan R. Reisinger
+  - Azwainewi B. Makhado
+  - Robert J. M. Crawford
+  - Pierre A. Pistorius
+  publisher: Marine Biology
+  date: '2017-01-30'
+  link: https://doi.org/g8vk3x
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mms.12306
+  title: Trend changes in sympatric Subantarctic and Antarctic fur seal pup populations
+    at Marion Island, Southern Ocean
+  authors:
+  - Mia Wege
+  - "Marie\u2010Pierre Etienne"
+  - W. Chris Oosthuizen
+  - Ryan R. Reisinger
+  - "Marth\xE1n N. Bester"
+  - P. J. Nico de Bruyn
+  publisher: Marine Mammal Science
+  date: '2016-02-07'
+  link: https://doi.org/f86zk7
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3354/meps11676
+  title: Variation in the diet of killer whales Orcinus orca at Marion Island, Southern
+    Ocean
+  authors:
+  - RR Reisinger
+  - "DR Gr\xF6cke"
+  - "N L\xFCbcker"
+  - EL McClymont
+  - AR Hoelzel
+  - PJN de Bruyn
+  publisher: Marine Ecology Progress Series
+  date: '2016-05-10'
+  link: https://doi.org/f8p4vf
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jembe.2015.08.008
+  title: Movement and diving of killer whales ( Orcinus orca ) at a Southern Ocean
+    archipelago
+  authors:
+  - Ryan R. Reisinger
+  - Mark Keith
+  - Russel D. Andrews
+  - P.J.N. de Bruyn
+  publisher: Journal of Experimental Marine Biology and Ecology
+  date: '2015-12-01'
+  link: https://doi.org/f7xj9d
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/hdy.2014.67
+  title: Phylogenomics of the killer whale indicates ecotype divergence in sympatry
+  authors:
+  - A E Moura
+  - J G Kenny
+  - R R Chaudhuri
+  - M A Hughes
+  - R R Reisinger
+  - P J N de Bruyn
+  - M E Dahlheim
+  - N Hall
+  - A R Hoelzel
+  publisher: Heredity
+  date: '2014-07-23'
+  link: https://doi.org/f6sprp
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1890/ES15-00368.1
+  title: "Terrestrial mammal three\u2010dimensional photogrammetry: multispecies mass\
+    \ estimation"
+  authors:
+  - M. Postma
+  - A. S. W. Tordiffe
+  - M. S. Hofmeyr
+  - R. R. Reisinger
+  - L. C. Bester
+  - P. E. Buss
+  - P. J. N. de Bruyn
+  publisher: Ecosphere
+  date: '2015-12-01'
+  link: https://doi.org/gv4ngp
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3402/polar.v33.23808
+  title: Environmental influences on the at-sea behaviour of a major consumer,<i>Mirounga
+    leonina</i>, in a rapidly changing environment
+  authors:
+  - Trevor McIntyre
+  - Horst Bornemann
+  - P.J. Nico de Bruyn
+  - Ryan R. Reisinger
+  - Daniel Steinhage
+  - "Maria E.I. M\xE1rquez"
+  - "Marth\xE1n N. Bester"
+  - "Joachim Pl\xF6tz"
+  publisher: Polar Research
+  date: '2014-01-01'
+  link: https://doi.org/g8vk3z
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-014-1618-3
+  title: Multiple occurrences of king penguin (Aptenodytes patagonicus) sexual harassment
+    by Antarctic fur seals (Arctocephalus gazella)
+  authors:
+  - William A. Haddad
+  - Ryan R. Reisinger
+  - Tristan Scott
+  - "Marth\xE1n N. Bester"
+  - P. J. Nico de Bruyn
+  publisher: Polar Biology
+  date: '2014-11-11'
+  link: https://doi.org/f8cdvv
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.12929
+  title: Population genomics of the killer whale indicates ecotype evolution in sympatry
+    involving both selection and drift
+  authors:
+  - Andre E. Moura
+  - John G. Kenny
+  - Roy Chaudhuri
+  - Margaret A. Hughes
+  - Andreanna J. Welch
+  - Ryan R. Reisinger
+  - P. J. Nico de Bruyn
+  - Marilyn E. Dahlheim
+  - Neil Hall
+  - A. Rus Hoelzel
+  publisher: Molecular Ecology
+  date: '2014-10-12'
+  link: https://doi.org/f6n48r
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12526-014-0296-2
+  title: Pseudostalked barnacles Xenobalanus globicipitis attached to killer whales
+    Orcinus orca in South African waters
+  authors:
+  - Thomas Otto Whitehead
+  - Dominic Paul Rollinson
+  - Ryan Rudolf Reisinger
+  publisher: Marine Biodiversity
+  date: '2014-12-06'
+  link: https://doi.org/gzthfc
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0111835
+  title: 'Satellite Tagging and Biopsy Sampling of Killer Whales at Subantarctic Marion
+    Island: Effectiveness, Immediate Reactions and Long-Term Responses'
+  authors:
+  - Ryan R. Reisinger
+  - W. Chris Oosthuizen
+  - "Guillaume P\xE9ron"
+  - Dawn Cory Toussaint
+  - Russel D. Andrews
+  - P. J. Nico de Bruyn
+  publisher: PLoS ONE
+  date: '2014-11-06'
+  link: https://doi.org/g8vk33
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/annotation/bb25e7cb-12f7-42e4-9d26-07b9bda87ecc
+  title: 'Correction: Gauging the Threat: The First Population Estimate for White
+    Sharks in South Africa Using Photo Identification and Automated Software'
+  authors:
+  - Alison V. Towner
+  - Michelle A. Wcisel
+  - Ryan R. Reisinger
+  - David Edwards
+  - Oliver J. D. Jewell
+  publisher: PLoS ONE
+  date: '2013-06-14'
+  link: https://doi.org/g8vk34
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0066035
+  title: 'Gauging the Threat: The First Population Estimate for White Sharks in South
+    Africa Using Photo Identification and Automated Software'
+  authors:
+  - Alison V. Towner
+  - Michelle A. Wcisel
+  - Ryan R. Reisinger
+  - David Edwards
+  - Oliver J. D. Jewell
+  publisher: PLoS ONE
+  date: '2013-06-12'
+  link: https://doi.org/g8vk35
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-013-1378-5
+  title: Tiletamine/zolazepam immobilization of adult post-moult southern elephant
+    seal males
+  authors:
+  - Horst Bornemann
+  - P. J. Nico de Bruyn
+  - Ryan R. Reisinger
+  - "Sabine K\xE4stner"
+  - "Maria E. I. M\xE1rquez"
+  - Trevor McIntyre
+  - "Marth\xE1n N. Bester"
+  - "Joachim Pl\xF6tz"
+  publisher: Polar Biology
+  date: '2013-08-08'
+  link: https://doi.org/f5ffdw
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-012-1216-1
+  title: Killer whale predation on subantarctic fur seals at Prince Edward Island,
+    Southern Indian Ocean
+  authors:
+  - P. A. Pistorius
+  - "M. A. Me\xFFer"
+  - R. R. Reisinger
+  - S. P. Kirkman
+  publisher: Polar Biology
+  date: '2012-06-29'
+  link: https://doi.org/f4c6wm
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3354/ab00340
+  title: "Abundance estimates of killer whales at \xADsubantarctic Marion Island"
+  authors:
+  - RR Reisinger
+  - PJN de Bruyn
+  - MN Bester
+  publisher: Aquatic Biology
+  date: '2011-05-05'
+  link: https://doi.org/fcjsfx
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1469-7998.2011.00815.x
+  title: 'Predatory impact of killer whales on pinniped and penguin populations at
+    the Subantarctic Prince Edward Islands: fact and fiction'
+  authors:
+  - R. R. Reisinger
+  - P. J. N. de Bruyn
+  - M. N. Bester
+  publisher: Journal of Zoology
+  date: '2011-04-28'
+  link: https://doi.org/cchtcb
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2989/1814232X.2011.572356
+  title: Prey and seasonal abundance of killer whales at sub-Antarctic Marion Island
+  authors:
+  - RR Reisinger
+  - PJN de Bruyn
+  - CA Tosh
+  - WC Oosthuizen
+  - NT Mufanadzo
+  - MN Bester
+  publisher: African Journal of Marine Science
+  date: '2011-04-01'
+  link: https://doi.org/bdppr8
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2989/1814232X.2011.637356
+  title: 'The Marine Mammal Programme at the Prince Edward Islands: 38 years of research'
+  authors:
+  - MN Bester
+  - PJN de Bruyn
+  - WC Oosthuizen
+  - CA Tosh
+  - T McIntyre
+  - RR Reisinger
+  - M Postma
+  - DS van der Merwe
+  - M Wege
+  publisher: African Journal of Marine Science
+  date: '2011-11-01'
+  link: https://doi.org/fzhz55
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-009-0731-1
+  title: Antarctic fur seal predation on cephalopods at Marion Island
+  authors:
+  - Ryan R. Reisinger
+  - P. J. Nico de Bruyn
+  - Pierre A. Pistorius
+  - "Marth\xE1n N. Bester"
+  publisher: Polar Biology
+  date: '2009-10-29'
+  link: https://doi.org/bh5xv8
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-009-0724-0
+  title: Goose barnacles hitchhike on satellite-tracked southern elephant seals
+  authors:
+  - Ryan R. Reisinger
+  - Trevor McIntyre
+  - "Marth\xE1n N. Bester"
+  publisher: Polar Biology
+  date: '2009-09-21'
+  link: https://doi.org/b4fzrk
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3377/004.045.0109
+  title: Goose barnacles on seals and a penguin at Gough Island
+  authors:
+  - Ryan R. Reisinger
+  - "Marth\xE1n N. Bester"
+  publisher: African Zoology
+  date: '2010-04-01'
+  link: https://doi.org/c52747
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-010-0830-z
+  title: Long distance breeding dispersal of a southern elephant seal
+  authors:
+  - Ryan R. Reisinger
+  - "Marth\xE1n N. Bester"
+  publisher: Polar Biology
+  date: '2010-05-30'
+  link: https://doi.org/fhrt9w
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1748-7692.2009.00324.x
+  title: Population size estimate of Indo-Pacific bottlenose dolphins in the Algoa
+    Bay region, South Africa
+  authors:
+  - Ryan R. Reisinger
+  - Leszek Karczmarski
+  publisher: Marine Mammal Science
+  date: '2009-12-28'
+  link: https://doi.org/bn4xgf
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mambio.2009.11.004
+  title: Prevalence of allosuckling behaviour in Subantarctic fur seal pups
+  authors:
+  - P.J. Nico de Bruyn
+  - Elissa Z. Cameron
+  - Cheryl A. Tosh
+  - W. Chris Oosthuizen
+  - Ryan R. Reisinger
+  - N. Thomas Mufanadzo
+  - Mashudu V. Phalanndwa
+  - Martin Postma
+  - Mia Wege
+  - Derek S. van der Merwe
+  - "Marth\xE1n N. Bester"
+  publisher: Mammalian Biology
+  date: '2010-11-01'
+  link: https://doi.org/d4snh8
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-009-0749-4
+  title: Vagrant Antarctic fur seals at Gough Island in 2009
+  authors:
+  - "Marth\xE1n N. Bester"
+  - R. R. Reisinger
+  publisher: Polar Biology
+  date: '2009-11-28'
+  link: https://doi.org/cwt6d6
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00300-008-0572-3
+  title: Leucistic southern elephant seal at Marion Island
+  authors:
+  - Ryan R. Reisinger
+  - N. Thomas Mufanadzo
+  - P. J. Nico de Bruyn
+  - "Marth\xE1n N. Bester"
+  publisher: Polar Biology
+  date: '2009-01-22'
+  link: https://doi.org/cr2bqp
+  orcid: 0000-0002-8933-6875
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +1375,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +1391,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
