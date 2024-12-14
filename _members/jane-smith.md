@@ -9,7 +9,7 @@ aliases:
   - Ryan Rudolf Reisinger
   - R. Reisinger
 links:
-  home-page: https://ryanreisinger.wordpress.com/
+  links: https://beacons.ai/ryan_reisinger
   orcid: 0000-0002-8933-6875
 ---
 
