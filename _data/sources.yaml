@@ -16,12 +16,12 @@
     - collaboration
   repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-
 - id: doi:10.1016/j.tree.2024.09.009
   image: https://www.cell.com/cms/10.1016/j.tree.2024.09.009/asset/4f29319d-cc3a-450d-b670-c0015e7a9269/main.assets/gr1_lrg.jpg
+
+- id: doi:10.1111/cobi.14345
+  image: https://conbio.onlinelibrary.wiley.com/cms/asset/319c905a-f3b3-4562-a83a-f1d812852cc0/cobi14345-fig-0002-m.jpg
+
+- id: doi:10.1111/brv.13066
+  image: https://onlinelibrary.wiley.com/cms/asset/8d361218-b87e-47d2-afea-b861bc4670f0/brv13066-fig-0001-m.jpg
   
