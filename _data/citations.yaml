@@ -1,36 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.tree.2024.09.009
-  title: Maximizing biological insights from instruments attached to animals
-  authors:
-  - Roxanne S. Beltran
-  - A. Marm Kilpatrick
-  - Simona Picardi
-  - Briana Abrahms
-  - Gabriel M. Barrile
-  - William K. Oestreich
-  - Justine A. Smith
-  - Max F. Czapanskiy
-  - Arina B. Favilla
-  - Ryan R. Reisinger
-  - Jessica M. Kendall-Bar
-  - Allison R. Payne
-  - Matthew S. Savoca
-  - Danial G. Palance
-  - Samantha Andrzejaczek
-  - Daphne M. Shen
-  - Taiki Adachi
-  - Daniel P. Costa
-  - Natalie A. Storm
-  - Conner M. Hale
-  - Patrick W. Robinson
-  publisher: Trends in Ecology &amp; Evolution
-  date: '2024-10-01'
-  link: https://doi.org/g8vk29
-  orcid: 0000-0002-8933-6875
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.cell.com/cms/10.1016/j.tree.2024.09.009/asset/4f29319d-cc3a-450d-b670-c0015e7a9269/main.assets/gr1_lrg.jpg
 - id: doi:10.1111/cobi.14345
   title: Scaling up ocean conservation through recognition of key biodiversity areas
     in the Southern Ocean from multispecies tracking data
@@ -57,6 +26,58 @@
   plugin: sources.py
   file: sources.yaml
   image: https://conbio.onlinelibrary.wiley.com/cms/asset/319c905a-f3b3-4562-a83a-f1d812852cc0/cobi14345-fig-0002-m.jpg
+- id: doi:10.1016/j.tree.2024.09.009
+  title: Maximizing biological insights from instruments attached to animals
+  authors:
+  - Roxanne S. Beltran
+  - A. Marm Kilpatrick
+  - Simona Picardi
+  - Briana Abrahms
+  - Gabriel M. Barrile
+  - William K. Oestreich
+  - Justine A. Smith
+  - Max F. Czapanskiy
+  - Arina B. Favilla
+  - Ryan R. Reisinger
+  - Jessica M. Kendall-Bar
+  - Allison R. Payne
+  - Matthew S. Savoca
+  - Danial G. Palance
+  - Samantha Andrzejaczek
+  - Daphne M. Shen
+  - Taiki Adachi
+  - Daniel P. Costa
+  - Natalie A. Storm
+  - Conner M. Hale
+  - Patrick W. Robinson
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2025-01-01'
+  link: https://doi.org/g8vk29
+  orcid: 0000-0002-8933-6875
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/10.1016/j.tree.2024.09.009/asset/4f29319d-cc3a-450d-b670-c0015e7a9269/main.assets/gr1_lrg.jpg
+- id: doi:10.3389/fmars.2024.1458042
+  title: Integrating the needs of recovering populations of baleen whales into the
+    revised management framework for the commercial fishery for Antarctic krill
+  authors:
+  - Philip N. Trathan
+  - Matthew S. Savoca
+  - Ari Friedlaender
+  - Mick Baines
+  - Elke Burkhardt
+  - Ted Cheeseman
+  - Luciano Dalla Rosa
+  - Helena Herr
+  - Eduardo R. Secchi
+  - Alexandre N. Zerbini
+  - Ryan R. Reisinger
+  publisher: Frontiers in Marine Science
+  date: '2024-12-20'
+  link: https://doi.org/g848wg
+  orcid: 0000-0002-8933-6875
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/brv.13066
   title: 'Animal migration in the Anthropocene: threats and mitigation options'
   authors:
