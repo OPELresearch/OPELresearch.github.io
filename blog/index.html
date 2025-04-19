@@ -37,6 +37,10 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Blog | OPEL</title>
@@ -90,9 +94,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -156,6 +160,10 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -330,6 +338,8 @@
 
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -374,7 +384,64 @@
     
       <span class="logo">
         
-          <img src="/images/logo.png" alt="logo">
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="-40 -60 80 100">
+  <style>
+    .bubble {
+      animation: float 2s ease-out both infinite var(--delay);
+    }
+    @keyframes float {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+      75% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-40px);
+      }
+    }
+  </style>
+  <g fill="currentColor" opacity="0.5">
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s"></circle>
+  </g>
+  <path fill="#38bdf8" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L -19.5 11.25
+      L 0 22.5
+      L 19.5 11.25
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="#bae6fd" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L 0 0
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="none" stroke="currentColor" stroke-width="5" d="
+      M -18 -53
+      L -10 -53
+      L -10 -29.2
+      L -30.3 -17.5
+      L -30.3 17.5
+      L 0 35
+      L 30.3 17.5
+      L 30.3 -17.5
+      L 10 -29.2
+      L 10 -53
+      L 18 -53
+    "></path>
+</svg>
+
         
       </span>
     
@@ -459,9 +526,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <div class="search-box">
@@ -471,18 +538,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </button>
 </div>
 
-<div class="tags" data-link="https://opelresearch.github.io/blog/">
+<div class="tags" data-link="/blog/">
     
-      <a href="https://opelresearch.github.io/blog/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="/blog/?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="https://opelresearch.github.io/blog/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="/blog/?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="https://opelresearch.github.io/blog/?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
-        big data
+      <a href="/blog/?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
+        big-data
       </a>
     
   </div>
@@ -511,31 +578,36 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     
     
       
+      
+        
+
+
 
 <div class="portrait-wrapper">
   <a href="/members/john-doe.html" class="portrait" data-style="tiny" aria-label="John Doe">
+    
+      <i class="icon fa-solid fa-graduation-cap"></i>
+    
+
     <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            John Doe
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-graduation-cap"></i>
-            <span>PhD Student</span>
-          </span>
-        
+      <span class="portrait-name">
+        John Doe
       </span>
+    
+
+    
+      <span class="portrait-description">
+        PhD Student
+      </span>
+    
+
     
   </a>
 </div>
 
+      
     
   
 
@@ -552,7 +624,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>December 18, 2024</span>
+      <span>April 19, 2025</span>
     </span>
   
 </div>
@@ -561,13 +633,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
 
 
-  <div class="tags" data-link="https://opelresearch.github.io/blog">
+  <div class="tags" data-link="/blog">
     
-      <a href="https://opelresearch.github.io/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="https://opelresearch.github.io/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
@@ -579,7 +651,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
       
       
-      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
       </p>
@@ -605,31 +677,30 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     
     
       
+      
+        
+
+
 
 <div class="portrait-wrapper">
   <a href="/members/jane-smith.html" class="portrait" data-style="tiny" aria-label="Ryan Reisinger">
+    
+
     <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Ryan Reisinger
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-microscope"></i>
-            <span>Principal Investigator</span>
-          </span>
-        
+      <span class="portrait-name">
+        Ryan Reisinger
       </span>
+    
+
+    
+
     
   </a>
 </div>
 
+      
     
   
 
@@ -646,7 +717,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>December 18, 2024</span>
+      <span>April 19, 2025</span>
     </span>
   
 </div>
@@ -661,7 +732,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
       
       
-      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
       </p>
@@ -687,31 +758,36 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     
     
       
+      
+        
+
+
 
 <div class="portrait-wrapper">
   <a href="/members/sarah-johnson.html" class="portrait" data-style="tiny" aria-label="Sarah Johnson">
+    
+      <i class="icon fa-solid fa-code"></i>
+    
+
     <img src="/images/photo.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Sarah Johnson
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-code"></i>
-            <span>Lead Programmer</span>
-          </span>
-        
+      <span class="portrait-name">
+        Sarah Johnson
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Lead Programmer
+      </span>
+    
+
     
   </a>
 </div>
 
+      
     
   
 
@@ -728,7 +804,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
     <span data-tooltip="Last updated on">
       <i class="icon fa-solid fa-clock-rotate-left"></i>
-      <span>December 18, 2024</span>
+      <span>April 19, 2025</span>
     </span>
   
 </div>
@@ -737,18 +813,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   
 
 
-  <div class="tags" data-link="https://opelresearch.github.io/blog">
+  <div class="tags" data-link="/blog">
     
-      <a href="https://opelresearch.github.io/blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
+      <a href="blog?search=%22tag:%20biology%22" class="tag" data-tooltip='Show items with the tag "biology"'>
         biology
       </a>
     
-      <a href="https://opelresearch.github.io/blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
+      <a href="blog?search=%22tag:%20medicine%22" class="tag" data-tooltip='Show items with the tag "medicine"'>
         medicine
       </a>
     
-      <a href="https://opelresearch.github.io/blog?search=%22tag:%20big%20data%22" class="tag" data-tooltip='Show items with the tag "big data"'>
-        big data
+      <a href="blog?search=%22tag:%20big-data%22" class="tag" data-tooltip='Show items with the tag "big-data"'>
+        big-data
       </a>
     
   </div>
@@ -759,7 +835,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
       
       
-      <p data-search="Lorem ipsum dolor sit amet  consectetur adipiscing elit  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ">
+      <p data-search="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
       </p>
@@ -860,7 +936,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   </div>
 
   <div>
-    © 2024
+    © 2025
     OPEL
       |   Built with
     <a href="https://github.com/greenelab/lab-website-template">

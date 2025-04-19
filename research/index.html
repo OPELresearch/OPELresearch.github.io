@@ -37,6 +37,10 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Research | OPEL</title>
@@ -90,9 +94,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.5.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -156,6 +160,10 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -330,6 +338,8 @@
 
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -374,7 +384,64 @@
     
       <span class="logo">
         
-          <img src="/images/logo.png" alt="logo">
+          <svg xmlns="http://www.w3.org/2000/svg" viewbox="-40 -60 80 100">
+  <style>
+    .bubble {
+      animation: float 2s ease-out both infinite var(--delay);
+    }
+    @keyframes float {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        transform: translateY(0);
+        opacity: 0;
+      }
+      75% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+        transform: translateY(-40px);
+      }
+    }
+  </style>
+  <g fill="currentColor" opacity="0.5">
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.1s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 0.4s"></circle>
+    <circle class="bubble" cx="0" cy="-10" r="3" style="--delay: 1.1s"></circle>
+  </g>
+  <path fill="#38bdf8" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L -19.5 11.25
+      L 0 22.5
+      L 19.5 11.25
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="#bae6fd" d="
+      M 0 -22.5
+      L -19.5 -11.25
+      L 0 0
+      L 19.5 -11.25
+      z
+    "></path>
+  <path fill="none" stroke="currentColor" stroke-width="5" d="
+      M -18 -53
+      L -10 -53
+      L -10 -29.2
+      L -30.3 -17.5
+      L -30.3 17.5
+      L 0 35
+      L 30.3 17.5
+      L 30.3 -17.5
+      L 10 -29.2
+      L 10 -53
+      L 18 -53
+    "></path>
+</svg>
+
         
       </span>
     
@@ -458,9 +525,9 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="highlighted">Highlighted</h2>
@@ -481,7 +548,7 @@
         Maximizing biological insights from instruments attached to animals
       </a>
 
-      <div class="citation-authors" data-tooltip="Roxanne S. Beltran, A. Marm Kilpatrick, Simona Picardi, Briana Abrahms, Gabriel M. Barrile, William K. Oestreich, Justine A. Smith, Max F. Czapanskiy, Arina B. Favilla, Ryan R. Reisinger, Jessica M. Kendall-Bar, Allison R. Payne, Matthew S. Savoca, Danial G. Palance, Samantha Andrzejaczek, Daphne M. Shen, Taiki Adachi, Daniel P. Costa, Natalie A. Storm, Conner M. Hale, Patrick W. Robinson " tabindex="0">
+      <div class="citation-authors" data-tooltip="Roxanne S. Beltran, A. Marm Kilpatrick, Simona Picardi, Briana Abrahms, Gabriel M. Barrile, William K. Oestreich, Justine A. Smith, Max F. Czapanskiy, Arina B. Favilla, Ryan R. Reisinger, Jessica M. Kendall-Bar, Allison R. Payne, Matthew S. Savoca, Danial G. Palance, Samantha Andrzejaczek, Daphne M. Shen, Taiki Adachi, Daniel P. Costa, Natalie A. Storm, Conner M. Hale, Patrick W. Robinson" tabindex="0">
         Roxanne S. Beltran, A. Marm Kilpatrick, Simona Picardi, Briana Abrahms, Gabriel M. Barrile, …, Taiki Adachi, Daniel P. Costa, Natalie A. Storm, Conner M. Hale, Patrick W. Robinson
 
       </div>
@@ -512,9 +579,9 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="all">All</h2>
@@ -546,7 +613,7 @@
         Maximizing biological insights from instruments attached to animals
       </a>
 
-      <div class="citation-authors" data-tooltip="Roxanne S. Beltran, A. Marm Kilpatrick, Simona Picardi, Briana Abrahms, Gabriel M. Barrile, William K. Oestreich, Justine A. Smith, Max F. Czapanskiy, Arina B. Favilla, Ryan R. Reisinger, Jessica M. Kendall-Bar, Allison R. Payne, Matthew S. Savoca, Danial G. Palance, Samantha Andrzejaczek, Daphne M. Shen, Taiki Adachi, Daniel P. Costa, Natalie A. Storm, Conner M. Hale, Patrick W. Robinson " tabindex="0">
+      <div class="citation-authors" data-tooltip="Roxanne S. Beltran, A. Marm Kilpatrick, Simona Picardi, Briana Abrahms, Gabriel M. Barrile, William K. Oestreich, Justine A. Smith, Max F. Czapanskiy, Arina B. Favilla, Ryan R. Reisinger, Jessica M. Kendall-Bar, Allison R. Payne, Matthew S. Savoca, Danial G. Palance, Samantha Andrzejaczek, Daphne M. Shen, Taiki Adachi, Daniel P. Costa, Natalie A. Storm, Conner M. Hale, Patrick W. Robinson" tabindex="0">
         Roxanne S. Beltran, A. Marm Kilpatrick, Simona Picardi, Briana Abrahms, Gabriel M. Barrile, …, Taiki Adachi, Daniel P. Costa, Natalie A. Storm, Conner M. Hale, Patrick W. Robinson
 
       </div>
@@ -586,7 +653,7 @@
         Scaling up ocean conservation through recognition of key biodiversity areas in the Southern Ocean from multispecies tracking data
       </a>
 
-      <div class="citation-authors" data-tooltip="Sarah L. Becker, Charlotte Boyd, Jonathan M. Handley, Ben Raymond, Ryan Reisinger, Yan Ropert‐Coudert, Nora Apelgren, Tammy E. Davies, Mary‐Anne Lea, Mercedes Santos, Philip N. Trathan, Anton P. Van de Putte, Luis A. Huckstadt, Jean‐Benoit Charrassin, Cassandra M. Brooks " tabindex="0">
+      <div class="citation-authors" data-tooltip="Sarah L. Becker, Charlotte Boyd, Jonathan M. Handley, Ben Raymond, Ryan Reisinger, Yan Ropert‐Coudert, Nora Apelgren, Tammy E. Davies, Mary‐Anne Lea, Mercedes Santos, Philip N. Trathan, Anton P. Van de Putte, Luis A. Huckstadt, Jean‐Benoit Charrassin, Cassandra M. Brooks" tabindex="0">
         Sarah L. Becker, Charlotte Boyd, Jonathan M. Handley, Ben Raymond, Ryan Reisinger, …, Philip N. Trathan, Anton P. Van de Putte, Luis A. Huckstadt, Jean‐Benoit Charrassin, Cassandra M. Brooks
 
       </div>
@@ -626,7 +693,7 @@
         Animal migration in the Anthropocene: threats and mitigation options
       </a>
 
-      <div class="citation-authors" data-tooltip="Steven J. Cooke, Morgan L. Piczak, Navinder J. Singh, Susanne Åkesson, Adam T. Ford, Shawan Chowdhury, Greg W. Mitchell, D. Ryan Norris, Molly Hardesty‐Moore, Douglas McCauley, Neil Hammerschlag, Marlee A. Tucker, Joshua J. Horns, Ryan R. Reisinger, Vojtěch Kubelka, Robert J. Lennox " tabindex="0">
+      <div class="citation-authors" data-tooltip="Steven J. Cooke, Morgan L. Piczak, Navinder J. Singh, Susanne Åkesson, Adam T. Ford, Shawan Chowdhury, Greg W. Mitchell, D. Ryan Norris, Molly Hardesty‐Moore, Douglas McCauley, Neil Hammerschlag, Marlee A. Tucker, Joshua J. Horns, Ryan R. Reisinger, Vojtěch Kubelka, Robert J. Lennox" tabindex="0">
         Steven J. Cooke, Morgan L. Piczak, Navinder J. Singh, Susanne Åkesson, Adam T. Ford, …, Marlee A. Tucker, Joshua J. Horns, Ryan R. Reisinger, Vojtěch Kubelka, Robert J. Lennox
 
       </div>
@@ -695,8 +762,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gsvn2s" class="citation-image" aria-label="Tracking the foraging migrations of Marion Island southern elephant seals (&lt;i&gt;Mirounga leonina&lt;/i&gt;) during their first year of life">
-        <img src="" alt="Tracking the foraging migrations of Marion Island southern elephant seals (&lt;i&gt;Mirounga leonina&lt;/i&gt;) during their first year of life" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gsvn2s" class="citation-image" aria-label="Tracking the foraging migrations of Marion Island southern elephant seals i Mirounga leonina i during their first year of life">
+        <img src="" alt="Tracking the foraging migrations of Marion Island southern elephant seals i Mirounga leonina i during their first year of life" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -735,8 +802,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/g8vk3c" class="citation-image" aria-label="The effect of prey abundance and fisheries on the survival, reproduction, and social structure of killer whales (&lt;i&gt;Orcinus orca&lt;/i&gt;) at subantarctic Marion Island">
-        <img src="" alt="The effect of prey abundance and fisheries on the survival, reproduction, and social structure of killer whales (&lt;i&gt;Orcinus orca&lt;/i&gt;) at subantarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/g8vk3c" class="citation-image" aria-label="The effect of prey abundance and fisheries on the survival, reproduction, and social structure of killer whales i Orcinus orca i at subantarctic Marion Island">
+        <img src="" alt="The effect of prey abundance and fisheries on the survival, reproduction, and social structure of killer whales i Orcinus orca i at subantarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -830,7 +897,7 @@
         Predator-derived bioregions in the Southern Ocean: Characteristics, drivers and representation in marine protected areas
       </a>
 
-      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Cassandra M. Brooks, Ben Raymond, Jennifer J. Freer, Cédric Cotté, José C. Xavier, Philip N. Trathan, Horst Bornemann, Jean-Benoit Charrassin, Daniel P. Costa, Bruno Danis, Luis Hückstädt, Ian D. Jonsen, Mary-Anne Lea, Leigh Torres, Anton Van de Putte, Simon Wotherspoon, Ari S. Friedlaender, Yan Ropert-Coudert, Mark Hindell " tabindex="0">
+      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Cassandra M. Brooks, Ben Raymond, Jennifer J. Freer, Cédric Cotté, José C. Xavier, Philip N. Trathan, Horst Bornemann, Jean-Benoit Charrassin, Daniel P. Costa, Bruno Danis, Luis Hückstädt, Ian D. Jonsen, Mary-Anne Lea, Leigh Torres, Anton Van de Putte, Simon Wotherspoon, Ari S. Friedlaender, Yan Ropert-Coudert, Mark Hindell" tabindex="0">
         Ryan R. Reisinger, Cassandra M. Brooks, Ben Raymond, Jennifer J. Freer, Cédric Cotté, …, Anton Van de Putte, Simon Wotherspoon, Ari S. Friedlaender, Yan Ropert-Coudert, Mark Hindell
 
       </div>
@@ -952,7 +1019,7 @@
         Front Cover
       </a>
 
-      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Stuart Corney, Ben Raymond, Amanda T. Lombard, Marthán N. Bester, Robert J. M. Crawford, Delia Davies, P. J. Nico de Bruyn, Ben J. Dilley, Stephen P. Kirkman, Azwianewi B. Makhado, Peter G. Ryan, Stefan Schoombie, Kim L. Stevens, Cheryl A. Tosh, Mia Wege, T. Otto Whitehead, Michael D. Sumner, Simon Wotherspoon, Ari S. Friedlaender, Cedric Cotté, Mark A. Hindell, Yan Ropert‐Coudert, Pierre A. Pistorius " tabindex="0">
+      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Stuart Corney, Ben Raymond, Amanda T. Lombard, Marthán N. Bester, Robert J. M. Crawford, Delia Davies, P. J. Nico de Bruyn, Ben J. Dilley, Stephen P. Kirkman, Azwianewi B. Makhado, Peter G. Ryan, Stefan Schoombie, Kim L. Stevens, Cheryl A. Tosh, Mia Wege, T. Otto Whitehead, Michael D. Sumner, Simon Wotherspoon, Ari S. Friedlaender, Cedric Cotté, Mark A. Hindell, Yan Ropert‐Coudert, Pierre A. Pistorius" tabindex="0">
         Ryan R. Reisinger, Stuart Corney, Ben Raymond, Amanda T. Lombard, Marthán N. Bester, …, Ari S. Friedlaender, Cedric Cotté, Mark A. Hindell, Yan Ropert‐Coudert, Pierre A. Pistorius
 
       </div>
@@ -992,7 +1059,7 @@
         Habitat model forecasts suggest potential redistribution of marine predators in the southern Indian Ocean
       </a>
 
-      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Stuart Corney, Ben Raymond, Amanda T. Lombard, Marthán N. Bester, Robert J. M. Crawford, Delia Davies, P. J. Nico de Bruyn, Ben J. Dilley, Stephen P. Kirkman, Azwianewi B. Makhado, Peter G. Ryan, Stefan Schoombie, Kim L. Stevens, Cheryl A. Tosh, Mia Wege, T. Otto Whitehead, Michael D. Sumner, Simon Wotherspoon, Ari S. Friedlaender, Cedric Cotté, Mark A. Hindell, Yan Ropert‐Coudert, Pierre A. Pistorius " tabindex="0">
+      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Stuart Corney, Ben Raymond, Amanda T. Lombard, Marthán N. Bester, Robert J. M. Crawford, Delia Davies, P. J. Nico de Bruyn, Ben J. Dilley, Stephen P. Kirkman, Azwianewi B. Makhado, Peter G. Ryan, Stefan Schoombie, Kim L. Stevens, Cheryl A. Tosh, Mia Wege, T. Otto Whitehead, Michael D. Sumner, Simon Wotherspoon, Ari S. Friedlaender, Cedric Cotté, Mark A. Hindell, Yan Ropert‐Coudert, Pierre A. Pistorius" tabindex="0">
         Ryan R. Reisinger, Stuart Corney, Ben Raymond, Amanda T. Lombard, Marthán N. Bester, …, Ari S. Friedlaender, Cedric Cotté, Mark A. Hindell, Yan Ropert‐Coudert, Pierre A. Pistorius
 
       </div>
@@ -1099,8 +1166,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gkfdcp" class="citation-image" aria-label="Spatial segregation in a sexually dimorphic central place forager: Competitive exclusion or niche divergence?">
-        <img src="" alt="Spatial segregation in a sexually dimorphic central place forager: Competitive exclusion or niche divergence?" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gkfdcp" class="citation-image" aria-label="Spatial segregation in a sexually dimorphic central place forager: Competitive exclusion or niche divergence">
+        <img src="" alt="Spatial segregation in a sexually dimorphic central place forager: Competitive exclusion or niche divergence" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1152,7 +1219,7 @@
         Combining Regional Habitat Selection Models for Large-Scale Prediction: Circumpolar Habitat Selection of Southern Ocean Humpback Whales
       </a>
 
-      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Ari S. Friedlaender, Alexandre N. Zerbini, Daniel M. Palacios, Virginia Andrews-Goff, Luciano Dalla Rosa, Mike Double, Ken Findlay, Claire Garrigue, Jason How, Curt Jenner, Micheline-Nicole Jenner, Bruce Mate, Howard C. Rosenbaum, S. Mduduzi Seakamela, Rochelle Constantine " tabindex="0">
+      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Ari S. Friedlaender, Alexandre N. Zerbini, Daniel M. Palacios, Virginia Andrews-Goff, Luciano Dalla Rosa, Mike Double, Ken Findlay, Claire Garrigue, Jason How, Curt Jenner, Micheline-Nicole Jenner, Bruce Mate, Howard C. Rosenbaum, S. Mduduzi Seakamela, Rochelle Constantine" tabindex="0">
         Ryan R. Reisinger, Ari S. Friedlaender, Alexandre N. Zerbini, Daniel M. Palacios, Virginia Andrews-Goff, …, Micheline-Nicole Jenner, Bruce Mate, Howard C. Rosenbaum, S. Mduduzi Seakamela, Rochelle Constantine
 
       </div>
@@ -1181,8 +1248,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gkzj84" class="citation-image" aria-label="Antarctic ecosystems in transition – life between stresses and opportunities">
-        <img src="" alt="Antarctic ecosystems in transition – life between stresses and opportunities" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gkzj84" class="citation-image" aria-label="Antarctic ecosystems in transition life between stresses and opportunities">
+        <img src="" alt="Antarctic ecosystems in transition life between stresses and opportunities" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1194,7 +1261,7 @@
         Antarctic ecosystems in transition – life between stresses and opportunities
       </a>
 
-      <div class="citation-authors" data-tooltip="Julian Gutt, Enrique Isla, José C. Xavier, Byron J. Adams, In‐Young Ahn, C.‐H. Christina Cheng, Claudia Colesie, Vonda J. Cummings, Guido di Prisco, Huw Griffiths, Ian Hawes, Ian Hogg, Trevor McIntyre, Klaus M. Meiners, David A. Pearce, Lloyd Peck, Dieter Piepenburg, Ryan R. Reisinger, Grace K. Saba, Irene R. Schloss, Camila N. Signori, Craig R. Smith, Marino Vacchi, Cinzia Verde, Diana H. Wall " tabindex="0">
+      <div class="citation-authors" data-tooltip="Julian Gutt, Enrique Isla, José C. Xavier, Byron J. Adams, In‐Young Ahn, C.‐H. Christina Cheng, Claudia Colesie, Vonda J. Cummings, Guido di Prisco, Huw Griffiths, Ian Hawes, Ian Hogg, Trevor McIntyre, Klaus M. Meiners, David A. Pearce, Lloyd Peck, Dieter Piepenburg, Ryan R. Reisinger, Grace K. Saba, Irene R. Schloss, Camila N. Signori, Craig R. Smith, Marino Vacchi, Cinzia Verde, Diana H. Wall" tabindex="0">
         Julian Gutt, Enrique Isla, José C. Xavier, Byron J. Adams, In‐Young Ahn, …, Camila N. Signori, Craig R. Smith, Marino Vacchi, Cinzia Verde, Diana H. Wall
 
       </div>
@@ -1310,13 +1377,13 @@
           
 
 
-  <div class="tags" data-repo="greenelab/meta-review" data-link="https://opelresearch.github.io/research/">
+  <div class="tags" data-repo="greenelab/meta-review" data-link="/research/">
     
-      <a href="https://opelresearch.github.io/research/?search=%22tag:%20open%20science%22" class="tag" data-tooltip='Show items with the tag "open science"'>
-        open science
+      <a href="/research/?search=%22tag:%20open-science%22" class="tag" data-tooltip='Show items with the tag "open-science"'>
+        open-science
       </a>
     
-      <a href="https://opelresearch.github.io/research/?search=%22tag:%20collaboration%22" class="tag" data-tooltip='Show items with the tag "collaboration"'>
+      <a href="/research/?search=%22tag:%20collaboration%22" class="tag" data-tooltip='Show items with the tag "collaboration"'>
         collaboration
       </a>
     
@@ -1345,7 +1412,7 @@
         Marine Ecosystem Assessment for the Southern Ocean: Birds and Marine Mammals in a Changing Climate
       </a>
 
-      <div class="citation-authors" data-tooltip="Sophie Bestley, Yan Ropert-Coudert, Susan Bengtson Nash, Cassandra M. Brooks, Cédric Cotté, Meagan Dewar, Ari S. Friedlaender, Jennifer A. Jackson, Sara Labrousse, Andrew D. Lowther, Clive R. McMahon, Richard A. Phillips, Pierre Pistorius, Peter S. Puskic, Ana Olivia de A. Reis, Ryan R. Reisinger, Mercedes Santos, Esther Tarszisz, Paul Tixier, Philip N. Trathan, Mia Wege, Barbara Wienecke " tabindex="0">
+      <div class="citation-authors" data-tooltip="Sophie Bestley, Yan Ropert-Coudert, Susan Bengtson Nash, Cassandra M. Brooks, Cédric Cotté, Meagan Dewar, Ari S. Friedlaender, Jennifer A. Jackson, Sara Labrousse, Andrew D. Lowther, Clive R. McMahon, Richard A. Phillips, Pierre Pistorius, Peter S. Puskic, Ana Olivia de A. Reis, Ryan R. Reisinger, Mercedes Santos, Esther Tarszisz, Paul Tixier, Philip N. Trathan, Mia Wege, Barbara Wienecke" tabindex="0">
         Sophie Bestley, Yan Ropert-Coudert, Susan Bengtson Nash, Cassandra M. Brooks, Cédric Cotté, …, Esther Tarszisz, Paul Tixier, Philip N. Trathan, Mia Wege, Barbara Wienecke
 
       </div>
@@ -1372,8 +1439,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/g8vk3n" class="citation-image" aria-label="Abundance, survival and population growth of killer whales &lt;i&gt;Orcinus orca&lt;/i&gt; at subantarctic Marion Island">
-        <img src="" alt="Abundance, survival and population growth of killer whales &lt;i&gt;Orcinus orca&lt;/i&gt; at subantarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/g8vk3n" class="citation-image" aria-label="Abundance, survival and population growth of killer whales i Orcinus orca i at subantarctic Marion Island">
+        <img src="" alt="Abundance, survival and population growth of killer whales i Orcinus orca i at subantarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1412,8 +1479,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gn5v8m" class="citation-image" aria-label="Foraging in a dynamic environment: Response of four sympatric sub‐Antarctic albatross species to interannual environmental variability">
-        <img src="" alt="Foraging in a dynamic environment: Response of four sympatric sub‐Antarctic albatross species to interannual environmental variability" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gn5v8m" class="citation-image" aria-label="Foraging in a dynamic environment: Response of four sympatric sub Antarctic albatross species to interannual environmental variability">
+        <img src="" alt="Foraging in a dynamic environment: Response of four sympatric sub Antarctic albatross species to interannual environmental variability" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1545,7 +1612,7 @@
         The retrospective analysis of Antarctic tracking data project
       </a>
 
-      <div class="citation-authors" data-tooltip="Yan Ropert-Coudert, Anton P. Van de Putte, Ryan R. Reisinger, Horst Bornemann, Jean-Benoît Charrassin, Daniel P. Costa, Bruno Danis, Luis A. Hückstädt, Ian D. Jonsen, Mary-Anne Lea, David Thompson, Leigh G. Torres, Philip N. Trathan, Simon Wotherspoon, David G. Ainley, Rachael Alderman, Virginia Andrews-Goff, Ben Arthur, Grant Ballard, John Bengtson, Marthán N. Bester, Arnoldus Schytte Blix, Lars Boehme, Charles-André Bost, Peter Boveng, Jaimie Cleeland, Rochelle Constantine, Robert J. M. Crawford, Luciano Dalla Rosa, P. J. Nico de Bruyn, Karine Delord, Sébastien Descamps, Mike Double, Louise Emmerson, Mike Fedak, Ari Friedlaender, Nick Gales, Mike Goebel, Kimberly T. Goetz, Christophe Guinet, Simon D. Goldsworthy, Rob Harcourt, Jefferson T. Hinke, Kerstin Jerosch, Akiko Kato, Knowles R. Kerry, Roger Kirkwood, Gerald L. Kooyman, Kit M. Kovacs, Kieran Lawton, Andrew D. Lowther, Christian Lydersen, Phil O’B. Lyver, Azwianewi B. Makhado, Maria E. I. Márquez, Birgitte I. McDonald, Clive R. McMahon, Monica Muelbert, Dominik Nachtsheim, Keith W. Nicholls, Erling S. Nordøy, Silvia Olmastroni, Richard A. Phillips, Pierre Pistorius, Joachim Plötz, Klemens Pütz, Norman Ratcliffe, Peter G. Ryan, Mercedes Santos, Colin Southwell, Iain Staniland, Akinori Takahashi, Arnaud Tarroux, Wayne Trivelpiece, Ewan Wakefield, Henri Weimerskirch, Barbara Wienecke, José C. Xavier, Ben Raymond, Mark A. Hindell " tabindex="0">
+      <div class="citation-authors" data-tooltip="Yan Ropert-Coudert, Anton P. Van de Putte, Ryan R. Reisinger, Horst Bornemann, Jean-Benoît Charrassin, Daniel P. Costa, Bruno Danis, Luis A. Hückstädt, Ian D. Jonsen, Mary-Anne Lea, David Thompson, Leigh G. Torres, Philip N. Trathan, Simon Wotherspoon, David G. Ainley, Rachael Alderman, Virginia Andrews-Goff, Ben Arthur, Grant Ballard, John Bengtson, Marthán N. Bester, Arnoldus Schytte Blix, Lars Boehme, Charles-André Bost, Peter Boveng, Jaimie Cleeland, Rochelle Constantine, Robert J. M. Crawford, Luciano Dalla Rosa, P. J. Nico de Bruyn, Karine Delord, Sébastien Descamps, Mike Double, Louise Emmerson, Mike Fedak, Ari Friedlaender, Nick Gales, Mike Goebel, Kimberly T. Goetz, Christophe Guinet, Simon D. Goldsworthy, Rob Harcourt, Jefferson T. Hinke, Kerstin Jerosch, Akiko Kato, Knowles R. Kerry, Roger Kirkwood, Gerald L. Kooyman, Kit M. Kovacs, Kieran Lawton, Andrew D. Lowther, Christian Lydersen, Phil O’B. Lyver, Azwianewi B. Makhado, Maria E. I. Márquez, Birgitte I. McDonald, Clive R. McMahon, Monica Muelbert, Dominik Nachtsheim, Keith W. Nicholls, Erling S. Nordøy, Silvia Olmastroni, Richard A. Phillips, Pierre Pistorius, Joachim Plötz, Klemens Pütz, Norman Ratcliffe, Peter G. Ryan, Mercedes Santos, Colin Southwell, Iain Staniland, Akinori Takahashi, Arnaud Tarroux, Wayne Trivelpiece, Ewan Wakefield, Henri Weimerskirch, Barbara Wienecke, José C. Xavier, Ben Raymond, Mark A. Hindell" tabindex="0">
         Yan Ropert-Coudert, Anton P. Van de Putte, Ryan R. Reisinger, Horst Bornemann, Jean-Benoît Charrassin, …, Henri Weimerskirch, Barbara Wienecke, José C. Xavier, Ben Raymond, Mark A. Hindell
 
       </div>
@@ -1585,7 +1652,7 @@
         Tracking of marine predators to protect Southern Ocean ecosystems
       </a>
 
-      <div class="citation-authors" data-tooltip="Mark A. Hindell, Ryan R. Reisinger, Yan Ropert-Coudert, Luis A. Hückstädt, Philip N. Trathan, Horst Bornemann, Jean-Benoît Charrassin, Steven L. Chown, Daniel P. Costa, Bruno Danis, Mary-Anne Lea, David Thompson, Leigh G. Torres, Anton P. Van de Putte, Rachael Alderman, Virginia Andrews-Goff, Ben Arthur, Grant Ballard, John Bengtson, Marthán N. Bester, Arnoldus Schytte Blix, Lars Boehme, Charles-André Bost, Peter Boveng, Jaimie Cleeland, Rochelle Constantine, Stuart Corney, Robert J. M. Crawford, Luciano Dalla Rosa, P. J. Nico de Bruyn, Karine Delord, Sébastien Descamps, Mike Double, Louise Emmerson, Mike Fedak, Ari Friedlaender, Nick Gales, Michael E. Goebel, Kimberly T. Goetz, Christophe Guinet, Simon D. Goldsworthy, Rob Harcourt, Jefferson T. Hinke, Kerstin Jerosch, Akiko Kato, Knowles R. Kerry, Roger Kirkwood, Gerald L. Kooyman, Kit M. Kovacs, Kieran Lawton, Andrew D. Lowther, Christian Lydersen, Phil O’B. Lyver, Azwianewi B. Makhado, Maria E. I. Márquez, Birgitte I. McDonald, Clive R. McMahon, Monica Muelbert, Dominik Nachtsheim, Keith W. Nicholls, Erling S. Nordøy, Silvia Olmastroni, Richard A. Phillips, Pierre Pistorius, Joachim Plötz, Klemens Pütz, Norman Ratcliffe, Peter G. Ryan, Mercedes Santos, Colin Southwell, Iain Staniland, Akinori Takahashi, Arnaud Tarroux, Wayne Trivelpiece, Ewan Wakefield, Henri Weimerskirch, Barbara Wienecke, José C. Xavier, Simon Wotherspoon, Ian D. Jonsen, Ben Raymond " tabindex="0">
+      <div class="citation-authors" data-tooltip="Mark A. Hindell, Ryan R. Reisinger, Yan Ropert-Coudert, Luis A. Hückstädt, Philip N. Trathan, Horst Bornemann, Jean-Benoît Charrassin, Steven L. Chown, Daniel P. Costa, Bruno Danis, Mary-Anne Lea, David Thompson, Leigh G. Torres, Anton P. Van de Putte, Rachael Alderman, Virginia Andrews-Goff, Ben Arthur, Grant Ballard, John Bengtson, Marthán N. Bester, Arnoldus Schytte Blix, Lars Boehme, Charles-André Bost, Peter Boveng, Jaimie Cleeland, Rochelle Constantine, Stuart Corney, Robert J. M. Crawford, Luciano Dalla Rosa, P. J. Nico de Bruyn, Karine Delord, Sébastien Descamps, Mike Double, Louise Emmerson, Mike Fedak, Ari Friedlaender, Nick Gales, Michael E. Goebel, Kimberly T. Goetz, Christophe Guinet, Simon D. Goldsworthy, Rob Harcourt, Jefferson T. Hinke, Kerstin Jerosch, Akiko Kato, Knowles R. Kerry, Roger Kirkwood, Gerald L. Kooyman, Kit M. Kovacs, Kieran Lawton, Andrew D. Lowther, Christian Lydersen, Phil O’B. Lyver, Azwianewi B. Makhado, Maria E. I. Márquez, Birgitte I. McDonald, Clive R. McMahon, Monica Muelbert, Dominik Nachtsheim, Keith W. Nicholls, Erling S. Nordøy, Silvia Olmastroni, Richard A. Phillips, Pierre Pistorius, Joachim Plötz, Klemens Pütz, Norman Ratcliffe, Peter G. Ryan, Mercedes Santos, Colin Southwell, Iain Staniland, Akinori Takahashi, Arnaud Tarroux, Wayne Trivelpiece, Ewan Wakefield, Henri Weimerskirch, Barbara Wienecke, José C. Xavier, Simon Wotherspoon, Ian D. Jonsen, Ben Raymond" tabindex="0">
         Mark A. Hindell, Ryan R. Reisinger, Yan Ropert-Coudert, Luis A. Hückstädt, Philip N. Trathan, …, Barbara Wienecke, José C. Xavier, Simon Wotherspoon, Ian D. Jonsen, Ben Raymond
 
       </div>
@@ -1667,7 +1734,7 @@
         Author Correction: Important At-Sea Areas of Colonial Breeding Marine Predators on the Southern Patagonian Shelf
       </a>
 
-      <div class="citation-authors" data-tooltip="Alastair M. M. Baylis, Megan Tierney, Rachael A. Orben, Victoria Warwick-Evans, Ewan Wakefield, W. James Grecian, Phil Trathan, Ryan Reisinger, Norman Ratcliffe, John Croxall, Letizia Campioni, Paulo Catry, Sarah Crofts, P. Dee Boersma, Filippo Galimberti, José P. Granadeiro, Jonathan Handley, Sean Hayes, April Hedd, Juan F. Masello, William A. Montevecchi, Klemens Pütz, Petra Quillfeldt, Ginger A. Rebstock, Simona Sanvito, Iain J. Staniland, Paul Brickle " tabindex="0">
+      <div class="citation-authors" data-tooltip="Alastair M. M. Baylis, Megan Tierney, Rachael A. Orben, Victoria Warwick-Evans, Ewan Wakefield, W. James Grecian, Phil Trathan, Ryan Reisinger, Norman Ratcliffe, John Croxall, Letizia Campioni, Paulo Catry, Sarah Crofts, P. Dee Boersma, Filippo Galimberti, José P. Granadeiro, Jonathan Handley, Sean Hayes, April Hedd, Juan F. Masello, William A. Montevecchi, Klemens Pütz, Petra Quillfeldt, Ginger A. Rebstock, Simona Sanvito, Iain J. Staniland, Paul Brickle" tabindex="0">
         Alastair M. M. Baylis, Megan Tierney, Rachael A. Orben, Victoria Warwick-Evans, Ewan Wakefield, …, Petra Quillfeldt, Ginger A. Rebstock, Simona Sanvito, Iain J. Staniland, Paul Brickle
 
       </div>
@@ -1694,8 +1761,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/g8vk3q" class="citation-image" aria-label="Dynamic Fine‐Scale Sea Icescape Shapes Adult Emperor Penguin Foraging Habitat in East Antarctica">
-        <img src="" alt="Dynamic Fine‐Scale Sea Icescape Shapes Adult Emperor Penguin Foraging Habitat in East Antarctica" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/g8vk3q" class="citation-image" aria-label="Dynamic Fine Scale Sea Icescape Shapes Adult Emperor Penguin Foraging Habitat in East Antarctica">
+        <img src="" alt="Dynamic Fine Scale Sea Icescape Shapes Adult Emperor Penguin Foraging Habitat in East Antarctica" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1707,7 +1774,7 @@
         Dynamic Fine‐Scale Sea Icescape Shapes Adult Emperor Penguin Foraging Habitat in East Antarctica
       </a>
 
-      <div class="citation-authors" data-tooltip="Sara Labrousse, Alexander D. Fraser, Michael Sumner, Takeshi Tamura, David Pinaud, Barbara Wienecke, Roger Kirkwood, Yan Ropert‐Coudert, Ryan Reisinger, Ian Jonsen, Rick Porter‐Smith, Christophe Barbraud, Charles‐André Bost, Rubao Ji, Stéphanie Jenouvrier " tabindex="0">
+      <div class="citation-authors" data-tooltip="Sara Labrousse, Alexander D. Fraser, Michael Sumner, Takeshi Tamura, David Pinaud, Barbara Wienecke, Roger Kirkwood, Yan Ropert‐Coudert, Ryan Reisinger, Ian Jonsen, Rick Porter‐Smith, Christophe Barbraud, Charles‐André Bost, Rubao Ji, Stéphanie Jenouvrier" tabindex="0">
         Sara Labrousse, Alexander D. Fraser, Michael Sumner, Takeshi Tamura, David Pinaud, …, Rick Porter‐Smith, Christophe Barbraud, Charles‐André Bost, Rubao Ji, Stéphanie Jenouvrier
 
       </div>
@@ -1747,7 +1814,7 @@
         Important At-Sea Areas of Colonial Breeding Marine Predators on the Southern Patagonian Shelf
       </a>
 
-      <div class="citation-authors" data-tooltip="Alastair M. M. Baylis, Megan Tierney, Rachael A. Orben, Victoria Warwick-Evans, Ewan Wakefield, W. James Grecian, Phil Trathan, Ryan Reisinger, Norman Ratcliffe, John Croxall, Letizia Campioni, Paulo Catry, Sarah Crofts, P. Dee Boersma, Filippo Galimberti, José P. Granadeiro, Jonathan Handley, Sean Hayes, April Hedd, Juan F. Masello, William A. Montevecchi, Klemens Pütz, Petra Quillfeldt, Ginger A. Rebstock, Simona Sanvito, Iain J. Staniland, Paul Brickle " tabindex="0">
+      <div class="citation-authors" data-tooltip="Alastair M. M. Baylis, Megan Tierney, Rachael A. Orben, Victoria Warwick-Evans, Ewan Wakefield, W. James Grecian, Phil Trathan, Ryan Reisinger, Norman Ratcliffe, John Croxall, Letizia Campioni, Paulo Catry, Sarah Crofts, P. Dee Boersma, Filippo Galimberti, José P. Granadeiro, Jonathan Handley, Sean Hayes, April Hedd, Juan F. Masello, William A. Montevecchi, Klemens Pütz, Petra Quillfeldt, Ginger A. Rebstock, Simona Sanvito, Iain J. Staniland, Paul Brickle" tabindex="0">
         Alastair M. M. Baylis, Megan Tierney, Rachael A. Orben, Victoria Warwick-Evans, Ewan Wakefield, …, Petra Quillfeldt, Ginger A. Rebstock, Simona Sanvito, Iain J. Staniland, Paul Brickle
 
       </div>
@@ -1814,8 +1881,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gz4xrz" class="citation-image" aria-label="Anomalous lanugo coat colourations in sub-Antarctic fur seal (Arctocephalus tropicalis) pups born on Marion Island">
-        <img src="" alt="Anomalous lanugo coat colourations in sub-Antarctic fur seal (Arctocephalus tropicalis) pups born on Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gz4xrz" class="citation-image" aria-label="Anomalous lanugo coat colourations in sub-Antarctic fur seal Arctocephalus tropicalis pups born on Marion Island">
+        <img src="" alt="Anomalous lanugo coat colourations in sub-Antarctic fur seal Arctocephalus tropicalis pups born on Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1896,8 +1963,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gfd4g5" class="citation-image" aria-label="Aspects of the ecology of killer whale (Orcinus orca Linn.) groups in the near-shore waters of Sub-Antarctic Macquarie Island">
-        <img src="" alt="Aspects of the ecology of killer whale (Orcinus orca Linn.) groups in the near-shore waters of Sub-Antarctic Macquarie Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gfd4g5" class="citation-image" aria-label="Aspects of the ecology of killer whale Orcinus orca Linn. groups in the near-shore waters of Sub-Antarctic Macquarie Island">
+        <img src="" alt="Aspects of the ecology of killer whale Orcinus orca Linn. groups in the near-shore waters of Sub-Antarctic Macquarie Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1936,8 +2003,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/g8vk3t" class="citation-image" aria-label="Foraging behaviour and habitat use by Indian Yellow-nosed Albatrosses (&lt;i&gt;Thalassarche carteri&lt;/i&gt;) breeding at Prince Edward Island">
-        <img src="" alt="Foraging behaviour and habitat use by Indian Yellow-nosed Albatrosses (&lt;i&gt;Thalassarche carteri&lt;/i&gt;) breeding at Prince Edward Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/g8vk3t" class="citation-image" aria-label="Foraging behaviour and habitat use by Indian Yellow-nosed Albatrosses i Thalassarche carteri i breeding at Prince Edward Island">
+        <img src="" alt="Foraging behaviour and habitat use by Indian Yellow-nosed Albatrosses i Thalassarche carteri i breeding at Prince Edward Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -1989,7 +2056,7 @@
         Habitat modelling of tracking data from multiple marine predators identifies important areas in the Southern Indian Ocean
       </a>
 
-      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Ben Raymond, Mark A. Hindell, Marthán N. Bester, Robert J. M. Crawford, Delia Davies, P. J. Nico de Bruyn, Ben J. Dilley, Stephen P. Kirkman, Azwianewi B. Makhado, Peter G. Ryan, Stefan Schoombie, Kim Stevens, Michael D. Sumner, Cheryl A. Tosh, Mia Wege, Thomas Otto Whitehead, Simon Wotherspoon, Pierre A. Pistorius " tabindex="0">
+      <div class="citation-authors" data-tooltip="Ryan R. Reisinger, Ben Raymond, Mark A. Hindell, Marthán N. Bester, Robert J. M. Crawford, Delia Davies, P. J. Nico de Bruyn, Ben J. Dilley, Stephen P. Kirkman, Azwianewi B. Makhado, Peter G. Ryan, Stefan Schoombie, Kim Stevens, Michael D. Sumner, Cheryl A. Tosh, Mia Wege, Thomas Otto Whitehead, Simon Wotherspoon, Pierre A. Pistorius" tabindex="0">
         Ryan R. Reisinger, Ben Raymond, Mark A. Hindell, Marthán N. Bester, Robert J. M. Crawford, …, Cheryl A. Tosh, Mia Wege, Thomas Otto Whitehead, Simon Wotherspoon, Pierre A. Pistorius
 
       </div>
@@ -2016,8 +2083,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/g8vk3v" class="citation-image" aria-label="Overlap and temporal variation in the diets of sympatric Antarctic and Subantarctic fur seals (&lt;i&gt;Arctocephalus&lt;/i&gt; spp.) at Marion Island, Prince Edward Islands">
-        <img src="" alt="Overlap and temporal variation in the diets of sympatric Antarctic and Subantarctic fur seals (&lt;i&gt;Arctocephalus&lt;/i&gt; spp.) at Marion Island, Prince Edward Islands" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/g8vk3v" class="citation-image" aria-label="Overlap and temporal variation in the diets of sympatric Antarctic and Subantarctic fur seals i Arctocephalus i spp. at Marion Island, Prince Edward Islands">
+        <img src="" alt="Overlap and temporal variation in the diets of sympatric Antarctic and Subantarctic fur seals i Arctocephalus i spp. at Marion Island, Prince Edward Islands" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2098,8 +2165,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gbjshg" class="citation-image" aria-label="At‐sea distribution and habitat use in king penguins at sub‐Antarctic Marion Island">
-        <img src="" alt="At‐sea distribution and habitat use in king penguins at sub‐Antarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gbjshg" class="citation-image" aria-label="At sea distribution and habitat use in king penguins at sub Antarctic Marion Island">
+        <img src="" alt="At sea distribution and habitat use in king penguins at sub Antarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2302,8 +2369,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/gv4ngp" class="citation-image" aria-label="Terrestrial mammal three‐dimensional photogrammetry: multispecies mass estimation">
-        <img src="" alt="Terrestrial mammal three‐dimensional photogrammetry: multispecies mass estimation" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/gv4ngp" class="citation-image" aria-label="Terrestrial mammal three dimensional photogrammetry: multispecies mass estimation">
+        <img src="" alt="Terrestrial mammal three dimensional photogrammetry: multispecies mass estimation" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2342,8 +2409,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/f7xj9d" class="citation-image" aria-label="Movement and diving of killer whales ( Orcinus orca ) at a Southern Ocean archipelago">
-        <img src="" alt="Movement and diving of killer whales ( Orcinus orca ) at a Southern Ocean archipelago" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/f7xj9d" class="citation-image" aria-label="Movement and diving of killer whales Orcinus orca at a Southern Ocean archipelago">
+        <img src="" alt="Movement and diving of killer whales Orcinus orca at a Southern Ocean archipelago" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2424,8 +2491,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/f8cdvv" class="citation-image" aria-label="Multiple occurrences of king penguin (Aptenodytes patagonicus) sexual harassment by Antarctic fur seals (Arctocephalus gazella)">
-        <img src="" alt="Multiple occurrences of king penguin (Aptenodytes patagonicus) sexual harassment by Antarctic fur seals (Arctocephalus gazella)" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/f8cdvv" class="citation-image" aria-label="Multiple occurrences of king penguin Aptenodytes patagonicus sexual harassment by Antarctic fur seals Arctocephalus gazella">
+        <img src="" alt="Multiple occurrences of king penguin Aptenodytes patagonicus sexual harassment by Antarctic fur seals Arctocephalus gazella" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2584,8 +2651,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/g8vk3z" class="citation-image" aria-label="Environmental influences on the at-sea behaviour of a major consumer,&lt;i&gt;Mirounga leonina&lt;/i&gt;, in a rapidly changing environment">
-        <img src="" alt="Environmental influences on the at-sea behaviour of a major consumer,&lt;i&gt;Mirounga leonina&lt;/i&gt;, in a rapidly changing environment" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/g8vk3z" class="citation-image" aria-label="Environmental influences on the at-sea behaviour of a major consumer, i Mirounga leonina i , in a rapidly changing environment">
+        <img src="" alt="Environmental influences on the at-sea behaviour of a major consumer, i Mirounga leonina i , in a rapidly changing environment" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2626,8 +2693,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/f5ffdw" class="citation-image" aria-label="Tiletamine/zolazepam immobilization of adult post-moult southern elephant seal males">
-        <img src="" alt="Tiletamine/zolazepam immobilization of adult post-moult southern elephant seal males" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/f5ffdw" class="citation-image" aria-label="Tiletamine zolazepam immobilization of adult post-moult southern elephant seal males">
+        <img src="" alt="Tiletamine zolazepam immobilization of adult post-moult southern elephant seal males" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2830,8 +2897,8 @@
 <div class="citation-container">
   <div class="citation">
     
-      <a href="https://doi.org/fcjsfx" class="citation-image" aria-label="Abundance estimates of killer whales at ­subantarctic Marion Island">
-        <img src="" alt="Abundance estimates of killer whales at ­subantarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <a href="https://doi.org/fcjsfx" class="citation-image" aria-label="Abundance estimates of killer whales at subantarctic Marion Island">
+        <img src="" alt="Abundance estimates of killer whales at subantarctic Marion Island" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
       </a>
     
 
@@ -2965,7 +3032,7 @@
         Prevalence of allosuckling behaviour in Subantarctic fur seal pups
       </a>
 
-      <div class="citation-authors" data-tooltip="P.J. Nico de Bruyn, Elissa Z. Cameron, Cheryl A. Tosh, W. Chris Oosthuizen, Ryan R. Reisinger, N. Thomas Mufanadzo, Mashudu V. Phalanndwa, Martin Postma, Mia Wege, Derek S. van der Merwe, Marthán N. Bester " tabindex="0">
+      <div class="citation-authors" data-tooltip="P.J. Nico de Bruyn, Elissa Z. Cameron, Cheryl A. Tosh, W. Chris Oosthuizen, Ryan R. Reisinger, N. Thomas Mufanadzo, Mashudu V. Phalanndwa, Martin Postma, Mia Wege, Derek S. van der Merwe, Marthán N. Bester" tabindex="0">
         P.J. Nico de Bruyn, Elissa Z. Cameron, Cheryl A. Tosh, W. Chris Oosthuizen, Ryan R. Reisinger, …, Mashudu V. Phalanndwa, Martin Postma, Mia Wege, Derek S. van der Merwe, Marthán N. Bester
 
       </div>
@@ -3364,7 +3431,7 @@
   </div>
 
   <div>
-    © 2024
+    © 2025
     OPEL
       |   Built with
     <a href="https://github.com/greenelab/lab-website-template">
