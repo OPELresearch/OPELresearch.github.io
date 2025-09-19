@@ -12,8 +12,30 @@ output:
 
 Research on the ecology of marine predators.
 
-# Team
+# Current team {.tabset}
+
+## PI
+Dr Ryan REISINGER
+
+
+## Postdocs
+Dr Julie MESTRE
+
+
+## PhD Students
+Amy FEAKES
+
+Elena JOSSO
+
+Natalie NICKELLS
+
+Joshua WILSON
+
+
+## Undergrads
 
 # Projects
 
 # Publications
+
+# Lab Alumni
