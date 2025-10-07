@@ -2,6 +2,7 @@
 title: "OPEL | Ocean Predator Ecology Lab"
 ---
 
-This is a Quarto website.
+This will be OPEL's website. Stay tuned...
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+For the moment check out\
+<https://beacons.ai/opelresearch>
