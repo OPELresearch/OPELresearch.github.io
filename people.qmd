@@ -1,0 +1,79 @@
+---
+title: "People"
+---
+
+## Current team
+
+### PI
+
+Dr Ryan REISINGER \| <https://beacons.ai/ryan_reisinger>
+
+### Postdocs
+
+Dr Julie MESTRE
+
+### PhD Students
+
+Amy FEAKES
+
+Elena JOSSO
+
+Natalie NICKELLS
+
+Simone TAVA
+
+Joshua WILSON
+
+### Undergrads
+
+Rosalia ALLEN
+
+Melissa BURY
+
+Georgina EVANSON
+
+Arianna HANNIGAN
+
+Joshua SOWDEN
+
+Jess WINDER
+
+## Lab Alumni
+
+### Visitors
+
+|      |                                   |                          |
+|------|-----------------------------------|--------------------------|
+| 2025 | Maëlis GIRARD                     | Sorbonne Université      |
+| 2024 | Dr Leena RIEKKOLA                 | Auckland University      |
+| 2023 | (now Dr) Jazel OULED-CHEIKH BONAN | Universitat de Barcelona |
+
+### MSc
+
+|  |  |  |
+|------------------------|------------------------|------------------------|
+| 2023/2024 | Purva THUBE | *Killer whale behaviour in response to oceanographic variables* |
+| 2022/2023 | Anthony CHAN | *The application of network approaches to a Southern Ocean predator movement dataset* |
+
+### Undergraduate dissertations (MSci and BSc)
+
+|  |  |  |
+|------------------------|------------------------|------------------------|
+| 2024/2025 | Joanna BRANSTETTER | *Comparative spatial and behavioural dynamics of adult and juvenile whale sharks (Rhincodon typus) off the coast of Peru and Ecuador in association with environmental factors* |
+|  | Alex ROGERS | *From tracks to tactics: Spatio-temporal mapping of humpback whale (Megaptera novaeangliae) ship-strike risk in the Western Antarctic Peninsula* |
+|  | Rhiannon VIPOND | *Functional diversity of sharks as a predictor of vulnerability under climate change* |
+| 2023/2024 | Ace ACWORTH |  |
+|  | Freya BURLEIGH |  |
+|  | Ruby COCKERELL |  |
+|  | Louisa HOY |  |
+|  | Finola KIRRANE |  |
+|  | Joe SIMONS |  |
+|  | Logan SOARES |  |
+|  | Francois-Xavier LECOMTE |  |
+| 2022/2023 | Hannah GIBBS |  |
+|  | Amber HUTCHINSON |  |
+|  | Rachael JOHANSON-BROWN |  |
+|  | Amanda MADRIGANO FURLANI |  |
+|  | Grace REYNOLDS |  |
+|  | Oliver RODGER |  |
+|  | Rory TRAFFORD |  |
