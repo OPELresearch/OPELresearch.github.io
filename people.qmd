@@ -14,15 +14,14 @@ Dr Julie MESTRE
 
 ### PhD Students
 
-Amy FEAKES
-
-Elena JOSSO
-
-Natalie NICKELLS
-
-Simone TAVA
-
-Joshua WILSON
+|  |  |
+|----|----|
+| Amy FEAKES | *Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data* |
+| Elena JOSSO | *Beyond species on the move: the characteristics, climate impacts, and conservation of Southern Ocean bioregions* |
+| Alex MILLER | *Navigating dual goals: The overlap of URN mitigation and decarbonisation strategies in shipping* |
+| Natalie NICKELLS | *Associations between baleen whales and their prey in the northern Scotia Arc* |
+| Simone TAVA | *Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data* |
+| Joshua WILSON | *Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data* |
 
 ### Undergrads
 
