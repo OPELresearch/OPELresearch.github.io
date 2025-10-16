@@ -8,8 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - people.qmd
-      - publications.qmd
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join Us
 
 format:
   html:

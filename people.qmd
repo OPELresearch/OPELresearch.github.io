@@ -2,6 +2,8 @@
 title: "People"
 ---
 
+Our people, present and past.
+
 ## Current team
 
 ### PI
@@ -17,7 +19,7 @@ Dr Julie MESTRE\
 ### PhD Students
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | Amy FEAKES | *Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data* |
 | Elena JOSSO | *Beyond species on the move: the characteristics, climate impacts, and conservation of Southern Ocean bioregions* |
 | Alex MILLER | *Navigating dual goals: The overlap of URN mitigation and decarbonisation strategies in shipping* |
