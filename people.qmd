@@ -37,8 +37,6 @@ Georgina EVANSON
 
 Arianna HANNIGAN
 
-Joshua SOWDEN
-
 Jess WINDER
 
 ## Lab Alumni
@@ -62,21 +60,21 @@ Jess WINDER
 
 |  |  |  |
 |------------------------|------------------------|------------------------|
-| 2024/2025 | Joanna BRANSTETTER | *Comparative spatial and behavioural dynamics of adult and juvenile whale sharks (Rhincodon typus) off the coast of Peru and Ecuador in association with environmental factors* |
-|  | Alex ROGERS | *From tracks to tactics: Spatio-temporal mapping of humpback whale (Megaptera novaeangliae) ship-strike risk in the Western Antarctic Peninsula* |
-|  | Rhiannon VIPOND | *Functional diversity of sharks as a predictor of vulnerability under climate change* |
-| 2023/2024 | Ace ACWORTH |  |
-|  | Freya BURLEIGH |  |
-|  | Ruby COCKERELL |  |
-|  | Louisa HOY |  |
-|  | Finola KIRRANE |  |
-|  | Joe SIMONS |  |
-|  | Logan SOARES |  |
-|  | Francois-Xavier LECOMTE |  |
-| 2022/2023 | Hannah GIBBS |  |
-|  | Amber HUTCHINSON |  |
-|  | Rachael JOHANSON-BROWN |  |
-|  | Amanda MADRIGANO FURLANI |  |
-|  | Grace REYNOLDS |  |
-|  | Oliver RODGER |  |
-|  | Rory TRAFFORD |  |
+| 2024/2025 | Joanna BRANSTETTER (MSci Marine Biology) | *Comparative spatial and behavioural dynamics of adult and juvenile whale sharks (Rhincodon typus) off the coast of Peru and Ecuador in association with environmental factors* |
+|  | Alex ROGERS (MSci Biology & Marine Biology) | *From tracks to tactics: Spatio-temporal mapping of humpback whale (Megaptera novaeangliae) ship-strike risk in the Western Antarctic Peninsula* |
+|  | Rhiannon VIPOND (MSci Marine Biology) | *Functional diversity of sharks as a predictor of vulnerability under climate change* |
+| 2023/2024 | Ace ACWORTH (MSci Marine Biology) | *Evaluating the impacts of the invasive giant water fern (Salvinia molesta) on the Lake Ossa Complex, Cameroon: Implications for the seasonally mportant lacustrine ecosystem for the West African manatee (Trichechus senegalensis)* |
+|  | Freya BURLEIGH (MSci Marine Biology) | *Predicting the spatiotemporal distribution of humpback whale (Megaptera novaeangliae) foraging areas around the Western Antarctic Peninsula from 2003 to 2019* |
+|  | Ruby COCKERELL (MSci Marine Biology with Oceanography) | *The vulnerability of the Ross Sea IMMA to potential temperature and sea-ice changes over the next century using CMIP6 model outputs* |
+|  | Louisa HOY (MSci Marine Biology) | *A decade of fishing: a spatiotemporal analysis of global fishing trends from 2013 to 2023* |
+|  | Finola KIRRANE (MSci Biology & Marine Biology) | *Investigating the potential of bio-logging devices and animal-borne video cameras for predicting the foraging outcomes of chinstrap penguins (Pygoscelis antarcticus)* |
+|  | Joe SIMONS (MSci Biology & Marine Biology) | *The influence of environmental covariates on behaviour and population recovery between different breeding stocks of humpback whales in the southern hemisphere* |
+|  | Logan SOARES (MSci Marine Biology) | *Assessing the impact of vessel traffic exposure on the distribution of offshore bottlenose dolphins off the Galician Coast, Spain* |
+|  | Francois-Xavier LECOMTE (MSci Marine Biology with Oceanography) | *Relationship between top marine predators and oceanographic features in the Southern Ocean* |
+| 2022/2023 | Hannah GIBBS (MSci Marine Biology) | A global synthesis of killer whale (*Orcinus orca*) isotopic niches and trophic positions |
+|  | Amber HUTCHINSON (BSc Marine Biology) | *Using first passage time and time-spent modelling to compare krill search behaviour of baleen whales and krill fishing vessels in the Western Antarctic Peninsula* |
+|  | Rachael JOHANSON-BROWN (BSc Biology & Marine Biology) | *Crisis to conservation: Assessing Important Marine Mammal Areas (IMMAs) using a metric for conservation prioritisation* |
+|  | Amanda MADRIGANO FURLANI (BSc Natural Sciences) | *Relationship between Humpback whale (Megaptera novaeangliae) behaviour and primary productivity in the Southern Ocean* |
+|  | Grace REYNOLDS (BSc Marine Biology) | *Behavioural analysis and spatial overlap of killer whales, Orcinus orca, and longline fisheries at the Prince Edward Islands* |
+|  | Oliver RODGER (MSci Marine Biology with Oceanography) | *The ‘Tunny’ are back: Are we witnessing the sustained return of the giant Atlantic bluefin tuna (Thunnus thynnus) to the coastal waters of Britain and Ireland?* |
+|  | Rory TRAFFORD (BSc Biology & Marine Biology) | Spatial temporal trends of marine mammal strandings in scotland and the impact of coastline type and accessibility on recordings |
