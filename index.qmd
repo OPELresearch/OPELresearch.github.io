@@ -4,7 +4,9 @@ title: "OPEL | Ocean Predator Ecology Lab"
 
 ![](resources/opel_logo.png){fig-align="left"}
 
-This will be OPEL's website. Stay tuned...
+We are the Ocean Predator Ecology Lab (OPEL) at the [University of Southampton's School of Ocean and Earth Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-ocean-and-earth-science). We do research on the ecology of marine predators.
 
-For the moment check out\
+This is our bare-bones home on the internet.
+
+For more dynamic content, and our socials, visit our links at:\
 <https://beacons.ai/opelresearch>
