@@ -2,7 +2,16 @@
 title: "Publications"
 ---
 
-Publications by OPEL members since 2022.
+```{=html}
+<script type="text/javascript" src="https://embed.altmetric.com/assets/embed.js"></script>
+```
+
+```{=html}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+
+Publications by OPEL members since 2022.\
+\
 
 ## Peer-reviewed papers
 
@@ -13,7 +22,22 @@ VanCompernolle M, & 295 others. (online early)\
 *Conservation Biology*: e70147.\
 <https://doi.org/10.1111/cobi.70147>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/cobi.70147" data-hide-no-mentions="true"}
+:::
+
+\
+
 ### 2025
+
+**Wilson JC**, Wood KA, Griffin LR, Brides K, Rees EC, Ezard THG (2025)\
+**Using satellite tracking to assess the use of protected areas and alternative roosts by Whooper and Bewick's Swans**\
+*Ibis* 167(2): 515-529\
+<https://doi.org/10.1111/ibi.13369>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/ibi.13369" data-hide-no-mentions="true"}
+:::
+
+\
 
 Makhado AB, Dakwa FE, Ryan PG, Masotla MJ, Dyer BM, Seakamela SM, Shabangu FW, Somhlaba S, **Reisinger RR** (2025)\
 **Seabird assemblages, abundance, and distribution in the African sector of the southern Indian Ocean**\
@@ -28,27 +52,52 @@ Makhado AB, Dakwa FE, Ryan PG, Masotla MJ, Dyer BM, Seakamela SM, Shabangu FW, S
 Sequeira AMM, & 376 others (2025)\
 **Global tracking of marine megafauna space-use reveals how to achieve biodiversity targets**\
 *Science* 388(6751): 1086-1097.\
-<https://doi.org/10.1126/science.adl0239> 
+<https://doi.org/10.1126/science.adl0239>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1126/science.adl0239" data-hide-no-mentions="true"}
+:::
+
+\
 
 Trathan PN, Friedlaender AS, Johnson C, **Reisinger RR** (2025)\
 **The fishery for Antarctic krill - conflicts between industrial production, protection of biodiversity, and legal governance**\
 *Marine Policy* 180: 106787.\
 <https://doi.org/10.1016/j.marpol.2025.106787>
 
-MD, Leitner M, Oosthuizen WC, Bester MN, Jordaan RK, Voysey MD, Conradie EC, Dosi B, Evans S, Lloyd KJ, Monier Z, Purdon J, **Reisinger RR**, Shihlomule YD, van der Vyver JSF, de Bruyn PJN (2025)\
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1016/j.marpol.2025.106787" data-hide-no-mentions="true"}
+:::
+
+\
+
+Ross MD, Leitner M, Oosthuizen WC, Bester MN, Jordaan RK, Voysey MD, Conradie EC, Dosi B, Evans S, Lloyd KJ, Monier Z, Purdon J, **Reisinger RR**, Shihlomule YD, van der Vyver JSF, de Bruyn PJN (2025)\
 **Seasonal occurrence and condition of leopard seals at an extralimital Sub-Antarctic Island**\
 *Polar Biology* 48(2):59.\
 <https://doi.org/10.1007/s00300-025-03378-6>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1007/s00300-025-03378-6" data-hide-no-mentions="true"}
+:::
+
+\
 
 Becker S, Boyd C, Handley J, Raymond B, **Reisinger RR**, Ropert-Coudert Y, Apelgren N, Davies T, Lea M-A, Santos M, Trathan PN, Van de Putte AP, Huckstadt L, Charassin J-B, Brooks CM (2025)\
 **Scaling up ocean conservation through recognition of Key Biodiversity Areas in the Southern Ocean from multispecies tracking data**\
 *Biological Conservation* 39(1): e14345\
 <https://doi.org/10.1111/cobi.14345>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/cobi.14345" data-hide-no-mentions="true"}
+:::
+
+\
+
 Beltran RS, Kilpatrick AM, Picardi S, Abrahms B, Barrile GM, Oestreich WK, Smith JA, Czapanskiy MF, Favilla AB, **Reisinger RR**, Kendall-Bar JM, Payne AR, Savoca MS, Palance DG, Andrzejaczek S, Shen DM, Adachi T, Costa DP, Storm NA, Hale CM, Robinson PW (2025)\
 **Maximizing biological insights from instruments attached to animals**\
 *Trends in Ecology and Evolution* 40(1): 37-46.\
 <https://doi.org/10.1016/j.tree.2024.09.009>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1016/j.tree.2024.09.009" data-hide-no-mentions="true"}
+:::
+
+\
 
 ### 2024
 
@@ -57,20 +106,40 @@ Trathan PN, Savoca MS, Friedlaender A, Baines M, Burkhardt E, Cheeseman T, Dalla
 *Frontiers in Marine Science* 11:1458042\
 <https://doi.org/10.3389/fmars.2024.1458042>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.3389/fmars.2024.1458042" data-hide-no-mentions="true"}
+:::
+
+\
+
 Cooke SJ, Piczak ML, Singh NJ, Åkesson S, Ford AT, Chowdhury S, Mitchell GW, Norris R, Hardesty-Moore M, McCauley D, Hammerschlag N, Tucker MA, Horns J, **Reisinger RR**, Kubelka V, Lennox RJ (2024)\
 **Animal Migration in the Anthropocene: Threats and Mitigation Options**\
 *Biological Reviews* 99(4): 1242-1260\
 <https://doi.org/10.1111/brv.13066>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/brv.13066" data-hide-no-mentions="true"}
+:::
+
+\
 
 Gimeno Castells M, Giménez J, Chiaradia A, Davis L, Seddon P, Ropert-Coudert Y, **Reisinger RR**, Coll M, Ramírez F (2024)\
 **Climate and human stressors on global penguin hotspots: current assessments for future conservation.**\
 *Global Change Biology* 30(1): e17143\
 <https://doi.org/10.1111/gcb.17143>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/gcb.17143" data-hide-no-mentions="true"}
+:::
+
+\
+
 McIntyre T, Oosthuizen WC, Bester MN, Hindell MA, **Reisinger RR**, Tosh CA, Van den Hoff J, de Bruyn PJN (2024)\
 **Tracking the foraging migrations of Marion Island southern elephant seals (*Mirounga leonina*) during their first year of life.**\
 *Marine Mammal Science* 40(2):e13078\
 <https://doi.org/10.1111/mms.13078>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/mms.13078" data-hide-no-mentions="true"}
+:::
+
+\
 
 ### 2023
 
@@ -79,6 +148,11 @@ Jordaan R, Oosthuizen WC, **Reisinger RR**, de Bruyn PJN (2023)\
 *Ecology and Evolution* e10144\
 <https://doi.org/10.1002/ece3.10144>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1002/ece3.10144" data-hide-no-mentions="true"}
+:::
+
+\
+
 ### 2022
 
 **Reisinger RR**, Trathan PN, Johnson CM, Joyce TW, Durban JW, Pitman RL, Friedlaender AS (2022)\
@@ -86,15 +160,30 @@ Jordaan R, Oosthuizen WC, **Reisinger RR**, de Bruyn PJN (2023)\
 *Frontiers in Marine Science* 9:914726\
 <https://doi.org/10.3389/fmars.2022.914726>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.3389/fmars.2022.914726" data-hide-no-mentions="true"}
+:::
+
+\
+
 **Reisinger RR**, Brooks CM, Raymond B, Freer JJ, Cotté C, Xavier JC, Trathan PN, Bornemann H, Charrassin J-B, Costa DP, Hückstädt L, Jonsen ID, Lea M-A, Torres L, Van de Putte A, Wotherspoon S, Friedlaender AS, Ropert-Coudert Y, Hindell M (2022)\
 **Predator-derived bioregions in the Southern Ocean: characteristics, drivers and representation in Marine Protected Areas.**\
 *Biological Conservation* 272: 109630\
 <https://doi.org/10.1016/j.biocon.2022.109630>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1016/j.biocon.2022.109630" data-hide-no-mentions="true"}
+:::
+
+\
+
 **Reisinger RR**, Corney S, Raymond B, Lombard AT, Bester MN, Crawford RJM, Davies D, de Bruyn PJN, Dilley BJ Kirkman SP, Makhado AB, Ryan PG, Schoombie S, Stevens KL, Tosh CA, Wege M, Whitehead TO, Sumner MD, Wotherspoon S, Friedlaender AS, Cotté C, Hindell MA, Ropert-Coudert Y, Pistorius PA (2022)\
 **Habitat model forecasts suggest potential redistribution of marine predators in the southern Indian Ocean.**\
 *Diversity and Distributions* 28(1): 142–159\
 <https://doi.org/10.1111/ddi.13447>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/ddi.13447" data-hide-no-mentions="true"}
+:::
+
+\
 
 ## Book chapters
 
@@ -107,12 +196,22 @@ In: Notarbartolo di Sciara G, Würsig B, editors.\
 Springer, Cham.\
 <https://doi.org/10.1007/978-3-030-98100-6_5>
 
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1007/978-3-030-98100-6_5" data-hide-no-mentions="true"}
+:::
+
+\
+
 Hückstädt LA, **Reisinger RR** (2022)\
 **Habitat utilization and behavior of phocid seals in relation to oceanography.**\
 In: Costa D, McHuron L, editors.\
 *Ethology and Behavioral Ecology of Phocids.*\
 Springer, Cham.\
 <http://dx.doi.org/10.1007/978-3-030-88923-4_5>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1007/978-3-030-88923-4_5" data-hide-no-mentions="true"}
+:::
+
+\
 
 ## Other works (selected)
 
