@@ -15,11 +15,11 @@ Publications by OPEL members since 2022.\
 
 ## Peer-reviewed papers
 
-### Online early
+### 2026
 
-VanCompernolle M, & 295 others. (online early)\
+VanCompernolle M, & 295 others (2026)\
 **Vulnerability of highly-mobile and wide-ranging marine megafauna to global anthropogenic threats**\
-*Conservation Biology*: e70147.\
+*Conservation Biology* 40(1): e70147.\
 <https://doi.org/10.1111/cobi.70147>
 
 ::: {.altmetric-embed data-badge-type="1" data-doi="10.1111/cobi.70147" data-hide-no-mentions="true"}
