@@ -19,7 +19,7 @@ Dr Julie MESTRE\
 ### PhD Students
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | Amy FEAKES | *Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data* |
 | Elena JOSSO | *Beyond species on the move: the characteristics, climate impacts, and conservation of Southern Ocean bioregions* |
 | Alex MILLER | *Navigating dual goals: The overlap of URN mitigation and decarbonisation strategies in shipping* |
@@ -52,14 +52,14 @@ Jess WINDER
 ### MSc
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | 2023/2024 | Purva THUBE | *Killer whale behaviour in response to oceanographic variables* |
 | 2022/2023 | Anthony CHAN | *The application of network approaches to a Southern Ocean predator movement dataset* |
 
 ### Undergraduate dissertations (MSci and BSc)
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | 2024/2025 | Joanna BRANSTETTER (MSci Marine Biology) | *Comparative spatial and behavioural dynamics of adult and juvenile whale sharks (Rhincodon typus) off the coast of Peru and Ecuador in association with environmental factors* |
 |  | Alex ROGERS (MSci Biology & Marine Biology) | *From tracks to tactics: Spatio-temporal mapping of humpback whale (Megaptera novaeangliae) ship-strike risk in the Western Antarctic Peninsula* |
 |  | Rhiannon VIPOND (MSci Marine Biology) | *Functional diversity of sharks as a predictor of vulnerability under climate change* |
