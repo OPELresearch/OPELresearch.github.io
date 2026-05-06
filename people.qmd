@@ -19,7 +19,7 @@ Dr Julie MESTRE\
 ### PhD Students
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | Amy FEAKES | *Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data* |
 | Elena JOSSO | *Beyond species on the move: the characteristics, climate impacts, and conservation of Southern Ocean bioregions* |
 | Alex MILLER | *Navigating dual goals: The overlap of URN mitigation and decarbonisation strategies in shipping* |
@@ -49,17 +49,21 @@ Jess WINDER
 | 2024 | Dr Leena RIEKKOLA                 | Auckland University      |
 | 2023 | (now Dr) Jazel OULED-CHEIKH BONAN | Universitat de Barcelona |
 
-### MSc
+### Postgraduate dissertations (MSc)
 
 |  |  |  |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | 2023/2024 | Purva THUBE | *Killer whale behaviour in response to oceanographic variables* |
 | 2022/2023 | Anthony CHAN | *The application of network approaches to a Southern Ocean predator movement dataset* |
 
 ### Undergraduate dissertations (MSci and BSc)
 
 |  |  |  |
-|----|----|----|
+|------------------------|------------------------|------------------------|
+| 2025/2026 | Melissa BURY (MSci Marine Biology) | *Mapping the distributions of cetaceans in the Southern Ocean and assessing their spatial protections* |
+| 2025/2026 | Georgina EVANSON (MSci Marine Biology) | *Exploring the impacts of survey effort on humpback whale distribution models in the Southern Ocean across the 20th and 21st Century* |
+| 2025/2026 | Arianna HANNIGAN (MSci Marine Biology with Oceanography) | *The Influence of Social and Environmental Drivers on Behavioural Expression and Spatial Distribution of Humpback Whales (Megaptera noveangliae) in Inhambane, Mozambique* |
+| 2025/2026 | Jessica WINDER (MSci Marine Biology) | *Evaluating models of Antarctic krill and predator distribution: A systematic review of predictive approaches across temporal scales for Ecosystem-Based Fisheries Management* |
 | 2024/2025 | Joanna BRANSTETTER (MSci Marine Biology) | *Comparative spatial and behavioural dynamics of adult and juvenile whale sharks (Rhincodon typus) off the coast of Peru and Ecuador in association with environmental factors* |
 |  | Alex ROGERS (MSci Biology & Marine Biology) | *From tracks to tactics: Spatio-temporal mapping of humpback whale (Megaptera novaeangliae) ship-strike risk in the Western Antarctic Peninsula* |
 |  | Rhiannon VIPOND (MSci Marine Biology) | *Functional diversity of sharks as a predictor of vulnerability under climate change* |
@@ -71,10 +75,10 @@ Jess WINDER
 |  | Joe SIMONS (MSci Biology & Marine Biology) | *The influence of environmental covariates on behaviour and population recovery between different breeding stocks of humpback whales in the southern hemisphere* |
 |  | Logan SOARES (MSci Marine Biology) | *Assessing the impact of vessel traffic exposure on the distribution of offshore bottlenose dolphins off the Galician Coast, Spain* |
 |  | Francois-Xavier LECOMTE (MSci Marine Biology with Oceanography) | *Relationship between top marine predators and oceanographic features in the Southern Ocean* |
-| 2022/2023 | Hannah GIBBS (MSci Marine Biology) | A global synthesis of killer whale (*Orcinus orca*) isotopic niches and trophic positions |
+| 2022/2023 | Hannah GIBBS (MSci Marine Biology) | *A global synthesis of killer whale (Orcinus orca) isotopic niches and trophic positions* |
 |  | Amber HUTCHINSON (BSc Marine Biology) | *Using first passage time and time-spent modelling to compare krill search behaviour of baleen whales and krill fishing vessels in the Western Antarctic Peninsula* |
 |  | Rachael JOHANSON-BROWN (BSc Biology & Marine Biology) | *Crisis to conservation: Assessing Important Marine Mammal Areas (IMMAs) using a metric for conservation prioritisation* |
 |  | Amanda MADRIGANO FURLANI (BSc Natural Sciences) | *Relationship between Humpback whale (Megaptera novaeangliae) behaviour and primary productivity in the Southern Ocean* |
 |  | Grace REYNOLDS (BSc Marine Biology) | *Behavioural analysis and spatial overlap of killer whales, Orcinus orca, and longline fisheries at the Prince Edward Islands* |
 |  | Oliver RODGER (MSci Marine Biology with Oceanography) | *The ‘Tunny’ are back: Are we witnessing the sustained return of the giant Atlantic bluefin tuna (Thunnus thynnus) to the coastal waters of Britain and Ireland?* |
-|  | Rory TRAFFORD (BSc Biology & Marine Biology) | Spatial temporal trends of marine mammal strandings in scotland and the impact of coastline type and accessibility on recordings |
+|  | Rory TRAFFORD (BSc Biology & Marine Biology) | *Spatial temporal trends of marine mammal strandings in Scotland and the impact of coastline type and accessibility on recordings* |
