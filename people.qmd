@@ -21,7 +21,7 @@ Dr Julie MESTRE (Visiting Researcher)
 ### PhD Students
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | Amy FEAKES | *Estimating marine mammal abundance and distribution from passive acoustic and biotelemetry data* |
 | Elena JOSSO | *Beyond species on the move: the characteristics, climate impacts, and conservation of Southern Ocean bioregions* |
 | Alex MILLER | *Navigating dual goals: The overlap of URN mitigation and decarbonisation strategies in shipping* |
@@ -58,14 +58,14 @@ Dr Julie MESTRE (2024-2026)
 ### Postgraduate dissertations (MSc)
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | 2023/2024 | Purva THUBE | *Killer whale behaviour in response to oceanographic variables* |
 | 2022/2023 | Anthony CHAN | *The application of network approaches to a Southern Ocean predator movement dataset* |
 
 ### Undergraduate dissertations (MSci and BSc)
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | 2025/2026 | Melissa BURY (MSci Marine Biology) | *Mapping the distributions of cetaceans in the Southern Ocean and assessing their spatial protections* |
 | 2025/2026 | Georgina EVANSON (MSci Marine Biology) | *Exploring the impacts of survey effort on humpback whale distribution models in the Southern Ocean across the 20th and 21st Century* |
 | 2025/2026 | Arianna HANNIGAN (MSci Marine Biology with Oceanography) | *The Influence of Social and Environmental Drivers on Behavioural Expression and Spatial Distribution of Humpback Whales (Megaptera noveangliae) in Inhambane, Mozambique* |

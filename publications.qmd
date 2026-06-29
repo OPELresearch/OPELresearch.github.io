@@ -17,6 +17,16 @@ Publications by OPEL members (in bold) since 2022.\
 
 ### 2026
 
+Wilson JC, Trathan PN, Venables HJ, Bornemann H, Constantine R, Costa DP, Dalla Rosa L, Emmerson L, Friedlaender AS, Goebel ME, Goldsworthy S, Hindell MA, Lea M-A, Muelbert MMC, Olmastroni S, Ropert-Coudert Y, Southwell C, **Reisinger RR** (2026)\
+Temporal and spatial transferability in telemetry-based dynamic species distribution models: The effects of algorithms and pseudo-absence techniques.\
+*Ecological Modelling* 521:111702\
+<https://doi.org/10.1016/j.ecolmodel.2026.111702>
+
+::: {.altmetric-embed data-badge-type="1" data-doi="10.1016/j.ecolmodel.2026.111702" data-hide-no-mentions="true"}
+:::
+
+\
+
 Oothuizen WC, Hoekstra S, **Reisinger RR**, Pistorius PA (2026)\
 **Terrestrial habitat use of male northern and southern giant petrels breeding at Marion Island**\
 *Royal Society Open Science* 13(2): 250320\
